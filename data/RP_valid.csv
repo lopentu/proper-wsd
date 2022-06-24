@@ -1,0 +1,867 @@
+Type,Word,wiki_cat,dot_obj,RP Class,Sentence,Annotator1,Annotator2,is_consistent
+GPE,臺北市,human-geographic territorial entity,location*organization,location,學生能夠在<臺北市>核心地帶裡面種田,location,location,True
+GPE,泰國,human-geographic territorial entity,location*organization,organization,泰國政府原先準備在去年底對訪泰的外國旅客開徵旅遊稅，每人不超過100泰銖。但由於去年泰銖強勢升值，已對觀光業造成影響，<泰國>政府決定去年不徵收旅遊稅。,organization,organization,True
+PRODUCT,iPhone,business,producer*product*location,product,6月底有用戶利用iOS 14的新安全功能發現53款App暗中存取<iPhone>或iPad中剪貼簿內容，但周末隨著其他用戶測試，發現連Reddit、LinkedIn也應被加入名單中。兩家公司皆表示沒有把這些資料傳到別處，但都承諾會停止這個行為。,product,product,True
+GPE,臺灣,human-geographic territorial entity,location*organization,organization,不就一堆華腦不能接受<臺灣>獨立又不,organization,organization,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,information,不是<蘋果日報>留言裡有當日發生狀況嗎？他們想要幫忙，被某,information,information,True
+GPE,法國,human-geographic territorial entity,location*organization,location,就連<法國>那邊也都有人被幹掉滅口.......,location,location,True
+GPE,新北市,human-geographic territorial entity,location*organization,location,"統計資料顯示，今年8月台北市網路待售一年以上的中古屋來到11,687件，<新北市>降至",location,location,True
+ORG,塔利班,religious organization,organization*human,organization,2月29日，美國國務卿蓬佩奧在美國和<塔利班>簽署和平協議後，發表講話。,organization,organization,True
+PRODUCT,Google,business,producer*product*location,producer,而<Google> Authenticator則是Google的身分驗證程式，可用來產生一次性密碼以供Google或第三方服務進行雙因素身分認證。研究人員指出，Cerberus可在Google Authenticator執行時直接取得所產生的密碼，並將它傳送到駭客所掌控的伺服器上。,producer,producer,True
+GPE,南韓,human-geographic territorial entity,location*organization,location,少於中國以外國家。中國以外最要關注的疫情出現在<南韓>、義大利、伊朗和日本。,location,location,True
+ORG,美國在台協會,organization,organization*location*human,organization,給國民黨中央黨部捎來賀電，反而是<美國在台協會>於官方網站上給江啟臣帶來祝福。中國,organization,organization,True
+ORG,美國在台協會,organization,organization*location*human,organization,格發送給時任<美國在台協會>處長李潔明，該電報提供美國對1982年「八一七聯合公報」的,organization,organization,True
+ORG,華盛頓郵報,mass media,organization*information*physical*human,organization,<華盛頓郵報>指出，外界質疑，世衛在疫情爆發早期發布的錯誤安全感訊息，是否加速病毒,organization,organization,True
+ORG,麥當勞,business,producer*product*location,producer,因為這對<麥當勞>來說是嚴重的疏失,producer,producer,True
+ORG,微軟,business,producer*product*location,producer,你不知道<微軟>就是用盜版吃下所有市場嗎,producer,producer,True
+WORK_OF_ART,蘋果,mass media,organization*information*physical*human,organization,新婚兩人今天滿臉笑意接受《<蘋果>》專訪，簡端良說，客廳只有一張沙發椅，原本已決定一輩子單身，認識廖郁賢有些時日，兩人都是很獨立的人，一直到2020總統大選後，才因互相在臉書關心問暖而開始有交集進而交往。,organization,organization,True
+ORG,蘋果,business,producer*product*location,producer,指出，這顯示亞馬遜音樂正迅速縮小與<蘋果>之間的差距，成為這個市場的重要競爭者。,producer,producer,True
+ORG,麥當勞,business,producer*product*location,location,有時候去<麥當勞>都會看到一位穿西裝的帶一台筆電然後身邊坐一些人，,location,location,True
+ORG,清華大學,university,organization*location*human,organization,沒有辛丑合約就沒有今天的<清華大學>，那是美國人拿賠款建,organization,organization,True
+ORG,政大,university,organization*location*human,organization,當然如果你是<政大>的學生，應該是可以直接跑去問楊老師看看能不能幫你做,organization,organization,True
+GPE,澳門,human-geographic territorial entity,location*organization,location,當年中國國民黨也抹黑台北市長陳水扁假日到<澳門>嫖,location,location,True
+ORG,中山大學,university,organization*location*human,organization,對於有媒體接到<中山大學>印度籍博士生，發表的期刊論文疑涉違學倫案，鄭英耀表示，據,organization,organization,True
+PRODUCT,特斯拉,business,producer*product*location,product,油價漲跌對GOGORO車主根本沒有感覺. 就跟一堆人買<特斯拉>也不是因為油價,product,product,True
+GPE,泰國,human-geographic territorial entity,location*organization,organization,泰國現在就覺得台灣客佔<泰國>遊客比例狠,organization,location,False
+PRODUCT,特斯拉,business,producer*product*location,product,台霸氣車牌「0857」<特斯拉>的富二代鄭旭哲。只是正當外界期待她公布好消息的同時，昨,product,product,True
+ORG,國民黨,political party,organization*human,organization,<國民黨>最近怎麼都只剩下韓陳李還有跳樓這種三教九流的人,organization,organization,True
+GPE,荷蘭,human-geographic territorial entity,location*organization,organization,<荷蘭>基本上還是死守著無症狀很難傳播的迷思。荷蘭因為也是使用健保總額支付制度，所以有非常強的成本導向考量。所以基本上死守這個迷思只是為了要減少檢驗成本。,organization,organization,True
+ORG,華航,business,producer*product*location,producer,台灣方面在3月7日鬆口同意中方安排，由東航和<華航>執飛臨時航班共同運送台人，,producer,producer,True
+GPE,南韓,human-geographic territorial entity,location*organization,organization,朝鮮中央通訊社引述北韓人民軍總參謀部發言人報導說，北韓將把部隊部署到先前與<南韓>,organization,organization,True
+ORG,華航,business,producer*product*location,producer,針對<華航>更名議題，民進黨立委王定宇今在臉書進行調查，問題包括希望<華航>英文更改的,producer,producer,True
+WORK_OF_ART,金曲獎,award,physical*event*human,physical,雖然五月天後來是靠第二人生橫掃<金曲獎>,physical,physical,True
+ORG,德國之聲,mass media,organization*information*physical*human,organization,剛看完<德國之聲>專訪林委員的報導,organization,information,False
+WORK_OF_ART,聯合報,mass media,organization*information*physical*human,organization,個來問我說這一間跟<聯合報>有什麼關係@@,organization,organization,True
+GPE,義大利,human-geographic territorial entity,location*organization,organization,不過美國國家機器等級跟<義大利>不同等級,organization,organization,True
+PRODUCT,星巴克,business,producer*product*location,product,當時男友學長，第一次接吻時我們正買完<星巴克>，在車上他把巧克力星冰樂吐到我嘴裡，,product,product,True
+ORG,星巴克,business,producer*product*location,location,但如果只想要氛圍和高尚感當然<星巴克>好,location,location,True
+ORG,好市多,business,producer*product*location,location,瘋狂到去<好市多>把頂新的東西都封鎖？因為，餿水油處理過還是餿水油，台灣人不是當年,location,location,True
+ORG,中研院,educational institution,organization*location*human,organization,（中央社記者張雄風台北30日電）<中研院>今天證實，27日已與加拿大駐台北貿易辦事處處,organization,organization,True
+ORG,中山大學,university,organization*location*human,organization,笑你這個<中山大學>碩士生就不能拿美簽膩？,organization,organization,True
+ORG,台科大,university,organization*location*human,organization,可憐==<台科大>念出來應該賺的比國防大學多,organization,organization,True
+WORK_OF_ART,中國時報,mass media,organization*information*physical*human,organization,<中國時報>怎麼造反爆料中國國民黨XD,organization,organization,True
+ORG,長榮,business,producer*product*location,producer,更別說<長榮>的新航線根本直接崩掉,producer,producer,True
+WORK_OF_ART,諾貝爾文學獎,award,physical*event*human,physical,標題: Re: [問卦] 為何當年<諾貝爾文學獎>給川端康成而不是三,physical,physical,True
+ORG,德軍,military unit,organization*human,organization,就跟我們以為現代<德軍>還跟二戰德軍,organization,organization,True
+PRODUCT,Google,business,producer*product*location,product,你可以看看<Google>教育版的使用者條款看你授權給了,product,product,True
+WORK_OF_ART,中國時報,mass media,organization*information*physical*human,organization,只有當年<中國時報>余紀忠敢偶爾偷渡幾篇文章.,organization,organization,True
+GPE,澳門,human-geographic territorial entity,location*organization,location,馬來西亞新加坡和<澳門>也會講廣東話,location,location,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,organization,最近幾個禮拜，<壹週刊>把韓國瑜暴料得不要不要的,organization,organization,True
+PRODUCT,Intel,business,producer*product*location,product,笑死 還真有人以為這種大型的伺服器用<Intel>民用處理,product,product,True
+GPE,紐約,human-geographic territorial entity,location*organization,organization,光是<紐約>有禁足令還是一堆智障跑去看醫療船進港就知道,organization,organization,True
+GPE,緬甸,human-geographic territorial entity,location*organization,location,新冠肺炎疫情大流行期間，一名世界衛生組織（WHO）工作人員在<緬甸>若開邦運送病毒採驗樣本時，不幸捲入地方武裝部隊與政府軍衝突，結果當場遭擊斃。報導指，當時該名駕駛的車輛塗有聯合國標誌。,location,location,True
+GPE,東京,human-geographic territorial entity,location*organization,location,而且他們要是把你載到<東京>去又不能入境或是轉機 不幫自己,location,location,True
+ORG,解放軍,military unit,organization*human,organization,數日前「超限戰」ㄧ書作者之一的<解放軍>退役少將喬良公開稱目前武統台灣將遭美國封鎖,organization,organization,True
+PRODUCT,特斯拉,business,producer*product*location,product,昨天在中山看到一台<特斯拉>計程車,product,product,True
+ORG,華航,business,producer*product*location,producer,一、 長期以來，華航經常被誤認為是來自中國的航班，導致國人在國際旅途上的不便。此次嚴重特殊傳染性肺炎（COVID-19）期間，各國禁止中國航班時，<華航>亦有被誤認為中國籍航班的情況。推動華航正名，讓國際清楚識別台灣，是台灣兩千三百萬人民的最佳利益。,producer,product,False
+ORG,國軍,military unit,organization*human,organization,署下通報，<國軍>也收到，3月5號發航之後，直到4月9日艦指部才把嗅覺喪失訊息通知到敦,organization,organization,True
+GPE,波蘭,human-geographic territorial entity,location*organization,organization,4.完整新聞內文:英國首相強生(Boris Johnson)今天(27日)告訴<波蘭>總理莫拉維茨奇(Mateusz Morawiecki)，英國若是無法與歐盟在脫歐過渡期間，達成雙邊未來關係的貿易協議，那麼英國將透過「澳洲模式」離開歐盟。,organization,organization,True
+ORG,中山大學,university,organization*location*human,organization,<中山大學>最有名的就是那群上知天文下知地理，無所不知無所不學的猴子了,organization,organization,True
+GPE,波蘭,human-geographic territorial entity,location*organization,dot,德國趁著美國遠在海的另一邊以及英國小俗辣時期併吞蘇台德及入侵<波蘭>,dot,location,False
+ORG,中華電信,business,producer*product*location,product,4. 參加本優惠於最短租期內可享網內通話免費，限撥打<中華電信>行動門號之國內網內單向語音通話使用，含撥打預付卡，但不含簡訊、影像電話、網路電話、公益語音、語音類加值服務、特殊撥號、電話投票、大量播放、國際電話、國際漫遊等服務，優惠到期後，國內網內語音相關費用將恢復4G一般型資費網內語音牌告費率計收。本優惠僅供一般用戶申請，不得作為商業使用，亦不得與多方通話併用；凡當月網內通話對象超過,product,product,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,<淡水>幾間泰式按摩店的泰國女都是假結婚,location,location,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,physical,前幾天廖燦昌因為涉入遠航掏空案被起訴 <蘋果日報>的報導曾寫到,physical,organization,False
+ORG,慈濟,organization,organization*location*human,organization,某些推文給我的感覺就是希望台灣<慈濟>把這,organization,organization,True
+ORG,好市多,business,producer*product*location,location,有沒有現在進去<好市多>應該要買啥宵夜才專業的八卦啊？,location,location,True
+ORG,麥當勞,business,producer*product*location,producer,我今天晚餐吃<麥當勞>大麥克是不是財富自由了？,producer,producer,True
+WORK_OF_ART,金馬獎,award,physical*event*human,event,沒有奧斯卡，最起碼<金馬獎>應該是保包沒問題啦,physical,event,False
+GPE,瑞典,human-geographic territorial entity,location*organization,organization,個人猜應該是美國或北歐國家如荷蘭德國<瑞典>之類的,organization,organization,True
+ORG,蘋果,mass media,organization*information*physical*human,organization,《<蘋果>》記者以某社區里幹事名義接觸醫凡，該公司員工A先提醒，其出售的篩劑只能,organization,organization,True
+GPE,台中市,human-geographic territorial entity,location*organization,organization,澎湖縣日前宣布禁止公務員請假出國後，<台中市>、台南市也要求及宣導員工不得請假前往,organization,organization,True
+ORG,清大,university,organization*location*human,organization,考不上醫學系的低分清大仔也想蹭<清大>有醫學系沾光 就知道醫,organization,organization,True
+GPE,臺灣,human-geographic territorial entity,location*organization,location,新冠肺炎疫情延燒，讓在臺陸配眷屬是否可享有臺灣健保議題，掀起討論。<臺灣>新移民發,location,organization,False
+ORG,台大,university,organization*location*human,organization,CDC出來要台大公佈不公佈的原因就是怕<台大>演受虐兒,organization,organization,True
+ORG,中華電信,business,producer*product*location,product,大家最近有沒有打<中華電信>客服的電話,product,producer,False
+ORG,微信,business,producer*product*location,product,這問題是...中國人有智慧型手機的幾乎都有<微信>,product,product,True
+GPE,波蘭,human-geographic territorial entity,location*organization,location,或是使用陸基「神盾」系統進行陸上發射。美國飛彈防禦局正在羅馬尼亞和<波蘭>安裝陸基,location,location,True
+ORG,台大,university,organization*location*human,X,樂學網升學輔導專家張財銘指出，今年可能是資工和電機系的翻轉年，因為109學測個人申請，同時正取台大電機跟資工的考生中，有29％選擇台大資工，比率明顯高於108年學測的20％。另從指考的差分也可看出，107年指考台大電機領先<台大>資工3分，但108年領先幅度縮小為1.5分，又因應國內各行業對新科技需求的應用更廣，高階技術人力需求更形重要，資訊工程科系逐漸熱門，因此推測今年電機資工將有可能翻轉，預估兩系分數落點均在417分上下。,organization,,
+ORG,麥當勞,business,producer*product*location,producer,看下來沒一個人認同<麥當勞>咖啡哈哈哈哈,producer,producer,True
+ORG,星巴克,business,producer*product*location,producer,除了偶爾<星巴克>買一送一會買一下  但也不是常態,producer,producer,True
+ORG,清大,university,organization*location*human,organization,清大教務長焦傳金說，<清大>課業不輕鬆，將星生每周六還須到軍中接受體能訓練，並上談,organization,organization,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,organization,一直很好奇這個<自由時報>的幼女記者到底是誰,organization,organization,True
+ORG,穆斯林,religious identity,organization*human,human,在轉為警民衝突及印度教徒與<穆斯林>衝突暴力事件多日後，已基本平息。,human,human,True
+PRODUCT,蘋果,mass media,organization*information*physical*human,organization,太陽花學運的時候只有<蘋果>登頭版，雖然有募資啦,organization,organization,True
+ORG,台大,university,organization*location*human,organization,其實因為我的數乙考太差(36.4)的緣故，我的分數只能上<台大>不採計數學的人類跟歷史系，,organization,organization,True
+GPE,台南,human-geographic territorial entity,location*organization,location,初向國慶籌備會爭取國慶焰火施放，5月25日經籌備會第1次常務委員會議同意優先在<台南>,location,location,True
+ORG,好市多,business,producer*product*location,location,市多以儲值卡方式退還，強迫最後還是只能在<好市多>消費來反,location,location,True
+GPE,臺灣,human-geographic territorial entity,location*organization,organization,針對日前外交部長吳釗燮的「不與美國尋求全面建交，臺海發生衝突不會倚靠美國」一說，前民進黨立委林濁水表示，「怪」，這樣<臺灣>還是一個國家？難道不依靠美國干預，是因為臺灣比日本或德國還勇上百倍？,organization,organization,True
+ORG,清大,university,organization*location*human,dot,圖讓敦厚的高雄市民放棄出門投票，大開台灣社會民主、法治的倒車。因此特別到<清大>，,dot,organization,False
+ORG,華為,business,producer*product*location,producer,部已允許<華為>可採購部分美國製產品，盡可能降低華為客戶受到的干擾。許多華為的客戶,producer,producer,True
+GPE,法國,human-geographic territorial entity,location*organization,organization,巴爾扎克還有一個是<法國>寫實小說家,organization,organization,True
+ORG,中華郵政,business,producer*product*location,producer,中華郵政工會秘書長羅蕙茹表示，<中華郵政>很樂意配合政府振興政策，但郵局業務相當繁,producer,producer,True
+ORG,微軟,business,producer*product*location,X,引發與<微軟>口罩客群的宗教戰爭之類的,?,?,True
+ORG,星巴克,business,producer*product*location,producer,每次買<星巴克>咖啡的時候店員都會問要不要+10元換特選豆,producer,producer,True
+GPE,泰國,human-geographic territorial entity,location*organization,organization,<泰國>泡麵便宜好吃的口味不少，就口味上來說，大部分的乾麵幾乎都把維力壓在擦。,organization,location,False
+ORG,台灣大學,university,organization*location*human,organization,柯媽認為台灣仍有三成民眾沒念過<台灣大學>,organization,organization,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,physical,記得<金鐘獎>得獎者很感謝吳接廣告來支持他,physical,physical,True
+ORG,台科大,university,organization*location*human,organization,<台科大>校長廖慶榮表示，這幾年來已經有論文抄襲的檢查軟體，學校對於所有論文都要求,organization,organization,True
+GPE,法國,human-geographic territorial entity,location*organization,organization,第三要不要看歐洲各國，包括左膠的最愛<法國>馬克宏抗疫抗到哪裡去了？,organization,organization,True
+ORG,蘋果,business,producer*product*location,producer,其實<蘋果>在推出 iOS 13.5 更新後，若 Face ID 辨識用戶配戴口罩會立即跳出密碼解鎖,producer,producer,True
+ORG,華為,business,producer*product*location,producer,現在連中芯都因為美國壓力背叛有中共國家背景的<華為>了，,producer,producer,True
+ORG,解放軍,military unit,organization*human,X,作夢的意思是第一天<解放軍>就會自己,?,X,False
+ORG,台鐵,business,producer*product*location,producer,還是送紅包給<台鐵>內部會是比較快的作法??,producer,producer,True
+WORK_OF_ART,花木蘭,work of art,information*physical,physical,1998年，中國政府最初禁止迪士尼在中國發行動畫版《<花木蘭>》，此舉是報復該公司前一,physical,physical,True
+GPE,新北,human-geographic territorial entity,location*organization,organization,席、前<新北>市長朱立倫，朱辦證實，朱下學期的確將在台大會計系開課。,organization,organization,True
+ORG,中華電信,business,producer*product*location,producer,早上長輩接到自稱<中華電信>的詐騙電話,producer,producer,True
+ORG,華為,business,producer*product*location,producer,基於美方仍然禁止美國科技業者，提供<華為>生產手機或網路設備必要的軟硬體，對此華為,producer,producer,True
+WORK_OF_ART,諾貝爾和平獎,award,physical*event*human,physical,台男一天不犯罪台灣可以得<諾貝爾和平獎>==,physical,physical,True
+WORK_OF_ART,金曲獎,award,physical*event*human,event,黃子佼日前宣布未來不再主持三金典禮，下個月即將到來的電視、廣播金鐘以及<金曲獎>將,event,event,True
+GPE,波蘭,human-geographic territorial entity,location*organization,human,還是有回去之後有成就的幾年前記得有一個<波蘭>的開電子廠,human,organization,False
+ORG,德軍,military unit,organization*human,human,兩個舉手投降的<德軍>其實是捷克人，結果還是被美軍射死,human,human,True
+ORG,台大,university,organization*location*human,location,許多大台北居民習慣將台大偌大的校園，當作日常生活空間的延伸場域，加上<台大>位於,location,location,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,攔截了24萬片預計運往瑞士的口罩與醫療物資，引起<瑞士>政府不滿，緊急召見德國大使。,organization,organization,True
+ORG,護家盟,organization,organization*location*human,organization,公投前<護家盟>指的專法是不能叫結婚 只能叫結合 是閹割啊,organization,organization,True
+ORG,華航,business,producer*product*location,X,立法院各黨團，鑒於中<華航>空（CHINA AIRLINES）（下簡稱華航）在世界各國被誤認為來自中國的中國國際航空（AIR CHINA），屢屢造成混淆，為強化我國之國際識別，交通部應積極推動短中長期之華航正名，經協商共同聲明如下：,X,Ｘ,True
+PRODUCT,Google,business,producer*product*location,producer,看起來還好，基本上新人第一份工作沒基礎丟本書給他，第一個月就可以達到了吧，但看推文說Google找她去就比我還會唬爛了，不過現在就是大C(chui)S(shih)的時代，要善用網路展現自我，基本上不要鬧到<Google>那去，人家也懶得出來跟你計較，反正想進Google的比路邊野狗還多，也不差這一則，我也認識一個這種的，前幾天才發現是東海資工研所中山資工，結果連資料結構都沒聽過，這種的更神，而且我發現這類人講話都有意無意的透漏些模糊的說法讓你覺得他來頭不小，所以才會常有這種自抬身價的傳說一直出現，當然被買進Google第一件事就是趕緊積極的更新li,producer,producer,True
+ORG,國軍,military unit,organization*human,organization,跟吳斯懷說<國軍>幫忙生產口罩是圖利廠商,organization,organization,True
+ORG,華盛頓郵報,mass media,organization*information*physical*human,human,《<華盛頓郵報>》追蹤每一位美國的死亡病例後發現，在能夠確認年齡與性別的前一千位死,human,organization,False
+ORG,臺大,university,organization*location*human,organization,長的不錯又讀<臺大>應該沒什麼好擔心啦,organization,organization,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,台北市議員監督<台北市>政府柯粉也有意見囉,organization,organization,True
+ORG,台鐵,business,producer*product*location,producer,林佳龍跟洪慈庸利用<台鐵>刷政績刷成這樣也是夠丟臉,producer,producer,True
+ORG,政大,university,organization*location*human,organization,別棟宿舍 學妹有什麼關於<政大>的都可以問喔～也可以加政大,organization,organization,True
+ORG,穆斯林,religious identity,organization*human,organization,説的好像豬瘟國家全部改信<穆斯林>？呵呵,organization,organization,True
+GPE,瑞典,human-geographic territorial entity,location*organization,organization,中共反美抗日打印度反加拿大反<瑞典>反澳洲,organization,organization,True
+ORG,華盛頓郵報,mass media,organization*information*physical*human,organization,首先是左膠假中立的<華盛頓郵報>和ABC新聞網對川普處理疫情的滿意度調查：,organization,organization,True
+ORG,交大,university,organization*location*human,organization,一堆連<交大>都考不上的是在抗議什麼？,organization,organization,True
+ORG,穆斯林,religious identity,organization*human,human,證明這並沒有發生。外國女子同時還透露，Daud Kim實際上不是一個貨真價實的<穆斯林>，,human,human,True
+ORG,交大,university,organization*location*human,organization,民國七十九年成立資訊科學系，一開張就壓在歷史悠久的<交大>資工之上，,organization,organization,True
+ORG,衛報,mass media,organization*information*physical*human,information,《<衛報>》提到，蔡英文反應很快，1月初就啟動了台灣的中央流行疫情指揮中心，並且祭,information,information,True
+ORG,高鐵,business,producer*product*location,product,<高鐵>還需要轉才能搭飛機真的很糟糕，尤其,product,product,True
+GPE,新北市,human-geographic territorial entity,location*organization,organization,；而新北市實施搭乘大眾運輸強制戴口罩第3日，<新北市>交通局統計今天截至下午3點，計,organization,organization,True
+ORG,華盛頓郵報,mass media,organization*information*physical*human,organization,經常點名抨擊亞馬遜亞馬遜創辦人、<華盛頓郵報>老闆貝佐斯。,organization,organization,True
+ORG,好萊塢,human-geographic territorial entity,location*organization,organization,最大還是港片的外銷市場被開始國際佈局的<好萊塢>端走,organization,organization,True
+ORG,華為,business,producer*product*location,producer,<華為>這幾年也很智障的透過媒體宣傳狼性，反而讓外國更,producer,producer,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,而平時住在<淡水>的張姓女童一家4口當時來淡水要找阿公，在環堤大道停好車後，4人先後穿越馬路，站在最前頭的女童恰好被特斯拉給撞上，雙腳膝蓋以下被截斷，現場留下斑斑血跡；女童父母目擊全程，當場嚇壞蹲地查看她的情況，但現場就失去生命徵象，送往新光醫院急救後仍死亡，母親在醫院不發一語，仍難以接受女兒離世事實。,location,location,True
+ORG,中國共產黨,political party,organization*human,organization,<中國共產黨>說季辛吉是中國共產黨的好友，也是欺騙人民。,organization,organization,True
+ORG,美軍,military unit,organization*human,organization,然而，<美軍>Twitch頻道引發的爭議不只這一樁，凡是有人在聊天室中問到有關美軍戰爭罪,organization,organization,True
+ORG,中山大學,university,organization*location*human,organization,我隨便找了一下<中山大學>的資料啦,organization,organization,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,physical,登廣告在<蘋果日報>不就等於付錢給黎智英的公司，繼續能辦報,physical,physical,True
+GPE,荷蘭,human-geographic territorial entity,location*organization,location,去年年底～今年年初去<荷蘭>旅遊，搭乘阿聯酋，為了在杜拜旅遊故意拉長轉機時間，去,location,location,True
+GPE,比利時,human-geographic territorial entity,location*organization,location,一對來台旅遊的<比利時>情侶網紅在YouTube開設頻道「Naick & Kim」，兩人因為疫情關係,location,organization,False
+ORG,好市多,business,producer*product*location,product,我是覺得<好市多>的被很多搶去轉賣才是真的，不過好市多,producer,product,False
+ORG,輔大,university,organization*location*human,organization,輔大校長江漢聲表示，若瑟醫院默默守護雲林偏鄉超過一甲子，每一年也都會接待<輔大>鐵馬,organization,organization,True
+ORG,台科大,university,organization*location*human,organization,一套原本用來教育政治系學生的國會大富翁遊戲，透過公督盟與東吳、<台科大>合作，研發,organization,organization,True
+ORG,中華航空,business,producer*product*location,product,台灣捐贈的口罩陸續運抵歐洲各國，但負責承載的<中華航空>機身印有「China Airlines」,product,product,True
+ORG,中原大學,university,organization*location*human,organization,那你<中原大學> 學生在校園講中華民國被陸生聽見要懲罰嗎,organization,organization,True
+PRODUCT,TikTok,business,producer*product*location,dot,創辦人張一鳴與其投資者均不願將<TikTok>賣給美國公司。,product,dot,False
+ORG,華航,business,producer*product*location,producer,消息人士表示，經過多次協商，明天的包機任務由<華航>及東方航空執行，華航班機搭載檢疫,producer,producer,True
+WORK_OF_ART,金馬獎,award,physical*event*human,event,止。《ETtoday》掌握報名情報，去年在<金馬獎>風光拿下最佳影片等5項大獎的《陽光普照,event,event,True
+ORG,華航,business,producer*product*location,producer,交通部指出，義大利公告限制中港澳及我國航班進出該國飛航情報區，但因為有其他數個國家感染人數高於我國，而未受到相關限制，顯然與我國本身疫情無關。目前經由民航局下午向義大利民航局反應，義方已有修正公告允許過境航班飛航義大利，但是仍然未同意降落該國機場，此舉影響<華航>羅馬航線及即將開航的長榮米蘭航線。,producer,producer,True
+ORG,台積電,business,producer*product*location,producer,謝金河寫道，目前<台積電>在南科已僱用一萬二千多個員工，這些年薪從200萬起跳的科技,producer,producer,True
+ORG,台鐵,business,producer*product*location,product,婉拒就醫，去年7月，獨子李承翰因處理<台鐵>自強號補票糾紛，被鄭男持刀刺死後，讓他,product,producer,False
+GPE,花蓮,human-geographic territorial entity,location*organization,X,PTT這些嘴砲仔去花蓮玩個幾次，看蕭美琴的文宣幾次就覺得<花蓮>王好爛,X,?,False
+ORG,日軍,military unit,organization*human,X,<日軍>的那兩者是對地對海功能全部閹割光光,?,?,True
+GPE,澳洲,human-geographic territorial entity,location*organization,organization,中共還有一個最後的大絕 直接宣布<澳洲>是中國神聖不可分割,organization,organization,True
+ORG,好萊塢,human-geographic territorial entity,location*organization,organization,中資入侵<好萊塢>之後一堆神作立刻太監了,organization,organization,True
+ORG,吉野家,business,producer*product*location,producer,那到底<吉野家>的牛丼部門狀況如何，看媒體描述的狀況，還有日本餐飲巨人們在2020年第,producer,producer,True
+ORG,AIT,organization,organization*location*human,organization,機不會被拆開檢查打報告順便送幾個附件給<AIT>就是了,organization,organization,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,偏鄉真的差很多，去過一次印象深刻而且只是<淡水>那而已不,location,location,True
+ORG,美軍,military unit,organization*human,organization,好啦，中國外交部說是美軍放的，那就是生化戰啦！中國應該要宣戰，洗刷恥辱阿！怎還在嘴砲？而且是天天嘴砲，中國擺明就是要給美國背鍋，你有膽就宣戰，敢賴給<美軍>就是表明解放軍能打贏美軍，這個發言人真敢。但習維尼不敢啦！,organization,organization,True
+ORG,日軍,military unit,organization*human,organization,決定<日軍>進攻方向的其實是淞滬會戰,organization,organization,True
+GPE,澳門,human-geographic territorial entity,location*organization,location,澳門旅遊，依據個案潛伏期推斷是在<澳門>感染。陳時中表示，她1日出現各種症狀後，3日,location,location,True
+PRODUCT,星巴克,business,producer*product*location,product,下次時空旅行我不會再喝<星巴克>了！,product,product,True
+ORG,德國之聲,mass media,organization*information*physical*human,human,我覺得<德國之聲>問民進黨的問題比起周,human,organization,False
+ORG,中研院,educational institution,organization*location*human,organization,"我是買以前<中研院>複合陶瓷玻璃材質的硬質鼠墊,用好多年了",organization,organization,True
+ORG,中華郵政,business,producer*product*location,producer,許多郵局員工在9月1號領薪水當天，發現少了一大筆錢，不只錯愕更傻眼，每個人薪水減少了千元到近萬元不等，對此中華郵政副總郭純陽解釋，<中華郵政>公司在2017年時遭勞保局檢查，發現績效獎金和考核獎金都沒列入所得計算，遭到裁罰，雖然公司提起訴願、行政訴訟卻都敗訴，因此只能在今年依法實施，將七月發的績效獎金和加給，按照規定納保，預估受影響人數約1.5萬人，而且從9月到11月薪資都會受到影響。,producer,producer,True
+GPE,台南市,human-geographic territorial entity,location*organization,organization,南新國中、新進國小、月津國小3校的美術班、藝術才能班是<台南市>大新營區培育美術人,organization,location,False
+ORG,華盛頓郵報,mass media,organization*information*physical*human,organization,象徵意義。」《<華盛頓郵報>》14日引述官員談話報導稱，川普私下向穆努欽提出讓他在支票,organization,organization,True
+GPE,新北市,human-geographic territorial entity,location*organization,organization,李旻蔚則是民進黨<新北市>議員李余典之女，2020代表民眾黨參選<新北市>三重區立委，挑戰,organization,organization,True
+ORG,中華電信,business,producer*product*location,producer,交通部是<中華電信>大股東上面不知道?,producer,producer,True
+ORG,星巴克,business,producer*product*location,producer,你懂什麼星巴克降價還是<星巴克>嗎,producer,product,False
+ORG,美國之音,mass media,organization*information*physical*human,organization,他說，他來幫大家歷史科普一下，「兩岸如果發生衝突，對岸的戰略就是要首戰即決戰，讓美軍未到，戰事已定，形成終戰之勢」，早在 2018年12月14日就有媒體報導，報導者還是美國政府出資成立的「美國之音」。而「<美國之音>」的報導，是引述蔡英文執政下的國防部所資助的「國防安全研究院」，在2018年12月13日發表的一份「2018 中共政軍發展評估報告」。,organization,organization,True
+ORG,中原大學,university,organization*location*human,organization,何志偉不意外，上次藉<中原大學>炒中議題蹭熱度被抓包,organization,organization,True
+WORK_OF_ART,和平獎,award,physical*event*human,physical,<和平獎>搬給啥都沒做的歐巴馬後我就覺得這獎可以廢了,physical,physical,True
+WORK_OF_ART,和平獎,award,physical*event*human,physical,）提名角逐<和平獎>，理由是促成阿拉伯聯合大公國與以色列和平協議，「開啟中東和平的,physical,physical,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,喔 不就說啦 他就是要衝<台北市>的悠遊卡跟悠遊付 不都解釋給你聽了,organization,organization,True
+ORG,微軟,business,producer*product*location,producer,這個你就不需要替鈔能力者<微軟>擔心了…………出XBOX搞,producer,producer,True
+ORG,AIT,organization,organization*location*human,organization,跟<AIT>狗官說你都吃瘦肉精美國豬長大的,organization,organization,True
+ORG,小米,business,producer*product*location,producer,來自別人家的監視畫面，使得Google緊急終止了旗下裝置與<小米>的整合能力。,producer,producer,True
+ORG,好萊塢,human-geographic territorial entity,location*organization,organization,<好萊塢>一邊幫忙洗白一邊繼續罵錢尼,organization,organization,True
+ORG,衛報,mass media,organization*information*physical*human,organization,英國「<衛報>」報導，在喜馬拉雅山區西部的衝突發生次日，印度媒體開始報導陣亡者姓名,organization,organization,True
+GPE,東京,human-geographic territorial entity,location*organization,location,大野說，已呼籲埼玉縣民，盡量不要去東京的鬧區，也不要進出<東京>沒做好防疫措施的店,location,location,True
+ORG,成大,university,organization*location*human,organization,<成大>校長蘇慧貞表示，台灣在這次武漢肺炎防疫表現受到國際肯定，突顯台灣在醫學上的,organization,organization,True
+GPE,美國,human-geographic territorial entity,location*organization,organization,中國得病數字不知道是<美國>的幾倍,organization,organization,True
+GPE,紐約,human-geographic territorial entity,location*organization,organization,"川普說：「我們要給紐約一個真正的機會」,「我認為我們有真正的機會贏得<紐約>。」",organization,organization,True
+ORG,解放軍,military unit,organization*human,organization,有沒有真的在國際上形式獨立其次，<解放軍>和武警不許踏,organization,organization,True
+ORG,吉野家,business,producer*product*location,producer,最早從日本來台灣插旗的牛丼店應該是<吉野家>，很久很久以後，Sukiya也來了。,producer,producer,True
+ORG,解放軍,military unit,organization*human,organization,台灣可以宣布獨立了 <解放軍>戰力連黑暗時代民兵都屌打,organization,organization,True
+ORG,哈佛,university,organization*location*human,organization,可是台灣<哈佛>專家說愛與包容就可治癒,organization,?,False
+ORG,台大,university,organization*location*human,organization,"前天不得已因為要回診<台大>心臟科拿藥,",organization,organization,True
+GPE,臺北,human-geographic territorial entity,location*organization,organization,我卻是早在他<臺北>市長任內就把他給看穿了,organization,organization,True
+ORG,台大,university,organization*location*human,organization,台大教務長丁詩同說，<台大>正思考如何吸引更多優秀學生留在台大就讀，另也思考之前,organization,organization,True
+ORG,納粹,political party,organization*human,organization,一般只會機械式檢討什麼人權至上還是什麼<納粹>武力奪權的狗屁說法,organization,organization,True
+ORG,中國共產黨,political party,organization*human,organization,<中國共產黨>至今也成立快一百年了,organization,organization,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,之前<淡水>看煙火卡在沙洲也是這群人，可惜沒死,location,location,True
+WORK_OF_ART,和平獎,award,physical*event*human,physical,這種人領<和平獎>跟發明炸藥的人頒和平獎差不多搞笑,physical,physical,True
+ORG,麥當勞,business,producer*product*location,location,現在去<麥當勞>做精神鑑定來得及嗎？,?,location,False
+ORG,鴻海,business,producer*product*location,producer,<鴻海>內部人士透露，此次愛心嘉年華活動除了鴻海在台灣的員工及眷屬外，還包括富智康,producer,producer,True
+ORG,陸軍,military unit,organization*human,organization,另對於直升機飛行聲音吵醒居民一事，<陸軍>表示，考量直升機飛航支援任務於晨間實施，,organization,organization,True
+ORG,台科大,university,organization*location*human,location,所以我又叫她跑去隔壁<台科大>幫我買雞腿飯,location,location,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,organization,<壹週刊>可以知道你在什麼時候出國,organization,organization,True
+GPE,義大利,human-geographic territorial entity,location*organization,location,12:31 +1 克羅埃西亞中止所有學校到<義大利>旅行一個月,location,location,True
+ORG,華為,business,producer*product*location,X,整天<華為>華為你在華為上班喔還是你一定要美國用華為啊,dot,?,False
+ORG,臺大,university,organization*location*human,organization,臺灣民主自由，但是批踢踢都不讓非<臺大>的人注冊,organization,organization,True
+ORG,德國之聲,mass media,organization*information*physical*human,organization,"(<德國之聲>中文網) 澳大利亞知名的昆士蘭大學,近期再度因一起爭議性十足的秘密聽審會,",organization,organization,True
+GPE,臺灣,human-geographic territorial entity,location*organization,organization,來嘲笑<臺灣>生產技術不行言之過早,organization,organization,True
+ORG,陸軍,military unit,organization*human,organization,五沒問題 比<陸軍>的話波蘭應該英西歐法國以外的才對 這計算,organization,organization,True
+GPE,苗栗,human-geographic territorial entity,location*organization,organization,<苗栗>一堆議員其實都比為廷做的骯髒事多了,organization,organization,True
+GPE,桃園,human-geographic territorial entity,location*organization,organization,<桃園>一堆補助根本就亂撒還有人挺得很開心,organization,organization,True
+ORG,台灣大學,university,organization*location*human,organization,台灣的東京大學是第一學府<台灣大學>,organization,organization,True
+GPE,台南市,human-geographic territorial entity,location*organization,organization,我就任以來非常罕見地在會議中如此憤怒，因台南市環保局局長回應議員提出的諸多質疑，居然回覆： 立法委員 陳椒華 委員很關心，請委員在中央修法，只要中央裁罰依準出來，要罰多高，不管是72萬、720萬，甚至是7200萬，他都沒意見。環保局局長今天這樣的發言，是對自身專業應有的謹慎態度嗎？我完全不想把這個案件變成政治問題，但今天台南市環保局的發言顯然就是 ＃推給中央。我忍不住要問，<台南市>地方與中央如今全面執政，難道市府真的沒有管道向上反映來解決？真的沒有更積極的行政作為？市府需要把一切推給中央，那要環保局何用？,organization,organization,True
+WORK_OF_ART,諾貝爾文學獎,award,physical*event*human,physical,高齡83歲的略薩是秘魯籍的作家與詩人，他的創作類型包括小說、劇本、隨筆、詩歌等等。略薩也寫文學評論、政論雜文，主持廣播、電視節目，執導舞臺劇、電影。一度走入政壇的略薩甚至在1990年競選總統，與藤森謙也進入第二輪對決方才落敗，與秘魯總統權位擦身而過。不過略薩的小說成就甚高，除了讓他被盛讚為「結構寫實主義大師」，2010年更一舉摘下國際文壇桂冠—<諾貝爾文學獎>。,physical,physical,True
+ORG,特斯拉,business,producer*product*location,producer,是在做<特斯拉>的車，當時是豐田及通用在加卅的合資車廠。,producer,producer,True
+ORG,蘋果,business,producer*product*location,producer,早在2月，<蘋果>便已公開告知所有應用程式及移動平台遊戲開發者「必須通過中國當局審查後，才能上架其開發的程式」，不過部分開發者卻抱持僥倖心態，在還未獲得核准前便搶先上架，導致中國App Store出現了黨不喜歡的內容，如先前遭到下架的《瘟疫公司》便是其中之一。,producer,producer,True
+PRODUCT,星巴克,business,producer*product*location,product,大家都說要喝<星巴克>不如喝其他小店。,product,product,True
+ORG,好萊塢,human-geographic territorial entity,location*organization,dot,<好萊塢>覺得亞裔就是小眼塌鼻高顴骨，所以不找亞洲人認定的型男演上氣，,dot,organization,False
+ORG,臺大,university,organization*location*human,organization,當初日治時期<臺大>叫做臺北帝國大學,organization,organization,True
+ORG,中國國民黨,political party,organization*human,organization,盈利，對一位研究生及平民百姓的人身攻擊嗎？」、「您同意<中國國民黨>的江主席採取大,organization,organization,True
+PRODUCT,iPhone,business,producer*product*location,product,我未來的電影之路，但我還是要說！」表示在電影中一幕潔美李寇蒂斯拿著<iPhone>的模樣,product,product,True
+ORG,納粹,political party,organization*human,organization,他們在桃園吸收了邪教桃產總那個流派，基進黨是政治學原理裡標準的<納粹>,organization,organization,True
+ORG,自由亞洲電台,mass media,organization*information*physical*human,organization,<自由亞洲電台>昨日報導，自由亞洲電台向湖北台辦求證包機一事，有湖北省台辦人員說，,organization,organization,True
+LOC,歐洲,human-geographic territorial entity,location*organization,human,台日韓的衛生習慣說真的比<歐洲>好太多,human,location,False
+WORK_OF_ART,和平獎,award,physical*event*human,event,不過<和平獎> 是任一名有提名權利資格者提出即可提名,event,event,True
+ORG,中研院,educational institution,organization*location*human,organization,成為第一位主動放棄禮遇的卸任副總統，不過，有人質疑<中研院>特聘研究員月薪50萬比卸,organization,organization,True
+ORG,輔大,university,organization*location*human,human,<輔大>那個也是因為醫院採樣失敗用未遂來判,human,organization,False
+GPE,桃園市,human-geographic territorial entity,location*organization,location,意外發現我大 <桃園市>永安漁港外面有個不明的圓圈圈，,location,location,True
+PRODUCT,肯德基,business,producer*product*location,producer,<肯德基>封膜然後不給吸管也是蠢到家吧,producer,producer,True
+ORG,護家盟,organization,organization*location*human,organization,但看到北市府讓<護家盟>公然插手性平會,organization,organization,True
+ORG,長榮,business,producer*product*location,producer,據了解，包括華航、<長榮>、華信等航空公司，都曾向民航局詢問過客艙載貨的規定。民航,producer,producer,True
+ORG,台科大,university,organization*location*human,organization,<台科大>則表示，經過調查，並沒有台科大學生到台師大與該生同修一門課，故目前三校選課與上課都照常，校方日前已將全校出入口縮減為2個，明天起連續假期防疫，台科大及三校系統師生同仁都要憑證入校，校外人士洽公請先申請憑相關證明文件始得入校。,organization,organization,True
+ORG,納粹,political party,organization*human,organization,你邏輯有問題，你COS納粹好像在跟人家講你很喜歡<納粹>一樣,organization,organization,True
+ORG,特斯拉,business,producer*product*location,product,但是<特斯拉>的銷售還是以美國和中國為主,product,product,True
+LOC,歐洲,human-geographic territorial entity,location*organization,organization,頑固不讓態度感到厭煩。文章稱，與促進中國在<歐洲>投資的作法相比，歐方反而開始限制,organization,location,False
+GPE,英國,human-geographic territorial entity,location*organization,location,台灣撞死人跑回<英國>英國不引渡也沒輒,location,location,True
+ORG,清華大學,university,organization*location*human,organization,謀論。著名的<清華大學>的一位教授轉發了一篇文章，聲稱穆斯林是幕後黑手，這是不真實,organization,organization,True
+ORG,吉野家,business,producer*product*location,producer,那我們再來看一下跟<吉野家>一樣賣牛丼的SUKIYA（すき家）狀況如何。,producer,producer,True
+GPE,新北,human-geographic territorial entity,location*organization,location,<新北>連便利商店買個東西都有可能失身嗎  o'-'o,location,location,True
+GPE,新北市,human-geographic territorial entity,location*organization,organization,另外，關於新北市送到衛福部的九千多件紓困申請案，陳時中指出，昨晚已與<新北市>長侯友宜通電話，達成共識，新北市要收回自審，就會與他配合，都會送回，回歸原來流程，也是對的事情，並感謝願意把責任擔下來。,organization,organization,True
+LOC,歐洲,human-geographic territorial entity,location*organization,organization,中國和俄國。歐洲國家不滿美國總統川普的「美國優先」政策以及他威脅對<歐洲>貨物加徵關,organization,organization,True
+ORG,衛報,mass media,organization*information*physical*human,organization,根據《<衛報>》的報導，大自然的聲音不只能幫助受封鎖令影響孤單在家的人們，也能幫助,organization,organization,True
+PRODUCT,iPhone,business,producer*product*location,product,業界表示，蘋果的處理器採用全世界地名為內部代號，今年將推出的<iPhone>的A14處理器,product,product,True
+PRODUCT,特斯拉,business,producer*product*location,producer,大家都知道現在<特斯拉>電動車漸漸成為主流，,producer,producer,True
+ORG,台積,business,producer*product*location,producer,奇甚麼樣背景的人會覺得台灣只有<台積>,producer,producer,True
+ORG,小米,business,producer*product*location,producer,然後隔壁版還一堆人推<小米>攝影機  嘻嘻,producer,producer,True
+WORK_OF_ART,中國時報,mass media,organization*information*physical*human,information,這標題我還以為是<中國時報>的標題,information,information,True
+ORG,國軍,military unit,organization*human,human,軍營撿到毒品案我就覺得<國軍>廢到渣了,human,human,True
+ORG,華爾街日報,mass media,organization*information*physical*human,organization,《<華爾街日報>》報導，原油生產過剩對原油庫存空間及原油管線造成壓力，高盛（,organization,organization,True
+ORG,微信,business,producer*product*location,product,只有登入公司電腦<微信>的時候會點開來同意登入一下,product,product,True
+ORG,美國在台協會,organization,organization*location*human,organization,中共軍機24小時內二度擾台，<美國在台協會>今天則公布國務院等行政部門資深主管給各大,organization,organization,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,時候華郵就報導美德情報單位是<瑞士>加密,organization,organization,True
+ORG,中研院,educational institution,organization*location*human,organization,並且把<中研院>人文社會類組搬遷到屏東,organization,organization,True
+ORG,高鐵,business,producer*product*location,producer,<高鐵>強調，敬請旅客乘車時配合政府各項防疫最新指引，力行,producer,producer,True
+ORG,台大,university,organization*location*human,organization,唸到<台大>畢業也只是進那些公司來幫我打工而已,organization,organization,True
+ORG,北捷,business,producer*product*location,producer,民進黨燦燦跑出來靠邀結果被<北捷>回擊的新聞嗎？,producer,producer,True
+GPE,緬甸,human-geographic territorial entity,location*organization,organization,身兼多職終究還是成為<緬甸>軍系的魁儡 助緬甸軍系跨時空,organization,organization,True
+ORG,華盛頓郵報,mass media,organization*information*physical*human,organization,《<華盛頓郵報>》記者克萊姆科的報導之所以受到這麼多人關注，其中一個原因是槍械對美國青少年造成的巨大威脅。,organization,organization,True
+ORG,長榮,business,producer*product*location,producer,法院今天表示，<長榮>空服員罷工活動落幕後，一名趙姓空服員因為沒有參與罷工，竟然遭,producer,producer,True
+GPE,荷蘭,human-geographic territorial entity,location*organization,organization,不知道他們非<荷蘭>的居民會不會說荷蘭不是國家而是地名,organization,organization,True
+ORG,塔利班,religious organization,organization*human,X,多山的加茲尼省位於阿富汗興都庫什山脈（Hindu Kush）山腳，冬季氣候嚴寒。<塔利班>目,X,X,True
+ORG,護家盟,organization,organization*location*human,organization,但是當安定力量 <護家盟>那些人出來打挺同政黨的時候,organization,organization,True
+GPE,臺北,human-geographic territorial entity,location*organization,location,<臺北>能上前端公立高中像是建中的是公立國中比較多吧,location,location,True
+GPE,臺灣,human-geographic territorial entity,location*organization,organization,說得是 越吵越更加證明<臺灣>不是中國的一部分,organization,organization,True
+ORG,輔大,university,organization*location*human,organization,<輔大>，然後交一個開瑪莎拉蒂的台中男友,organization,organization,True
+ORG,華爾街日報,mass media,organization*information*physical*human,organization,你們驅逐<華爾街日報>記者還打人家博明咧,organization,organization,True
+GPE,德國,human-geographic territorial entity,location*organization,organization,<德國>就除了納粹議題其它都可以用人民幣買通,organization,organization,True
+ORG,納粹,political party,organization*human,human,檢討納粹把自己國內的人指認說是<納粹>後代本就是操弄,human,human,True
+ORG,高鐵,business,producer*product*location,product,新竹市。當時他認為新竹高鐵站設在竹北市，<高鐵>大幅縮短台灣南北的距離，帶動台灣朝,product,product,True
+ORG,微博,business,producer*product*location,product,你的言論跟<微博>控評的阿陸仔一樣耶,product,product,True
+WORK_OF_ART,金曲獎,award,physical*event*human,physical,為什麼謝和弦之後會幾乎跟<金曲獎>無緣呢？,physical,physical,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,information,說到賴品妤我就想到<蘋果日報>的這張,information,information,True
+GPE,苗栗,human-geographic territorial entity,location*organization,location,怎麼<苗栗>常撿到石虎跟少見的動物,location,location,True
+GPE,臺北,human-geographic territorial entity,location*organization,location,這些設施在<臺北>其實搭配捷運都有，只是如果遇到下雨很麻煩而已。,location,location,True
+ORG,國軍,military unit,organization*human,organization,結果吳斯懷才是真的關心<國軍>得人笑死,organization,human,False
+ORG,微博,business,producer*product*location,product,《衛報》指出，從<微博>用戶發布的言論可看出部分中國民眾對於健康碼的新功能存在疑慮,product,product,True
+WORK_OF_ART,花木蘭,work of art,information*physical,physical,《<花木蘭>》真人版電影，9月11日在大陸上映，首日票房開出5500萬人民幣，大約台幣2億3千多萬，卻被美國媒體批評「表現不如預期」，但其實這票房和好萊塢大片《天能》是差不多的。針對《<花木蘭>》引發的爭議，迪士尼財務長做出回應，她表示在大陸拍攝需要得到政府認可，這是在電影界非常普遍的事情，也承認這確實為票房收入帶來很多問題。,physical,physical,True
+GPE,花蓮,human-geographic territorial entity,location*organization,location,每次回<花蓮>都要繞山路走清水斷堐,location,location,True
+ORG,國民黨,political party,organization*human,organization,當年<國民黨>迫害台灣所以現在中國迫害疆藏蒙叫作合理?,organization,organization,True
+ORG,中研院,educational institution,organization*location*human,organization,阿肥剛剛才開到震驚的<中研院>的突破,organization,organization,True
+ORG,德國之聲,mass media,organization*information*physical*human,organization,綜合大陸《環球時報》、<德國之聲>報導，歐洲疫情最嚴重的義大利近期頻頻呼籲歐盟國家,organization,organization,True
+ORG,微信,business,producer*product*location,producer,你不如先去舉發抖音跟<微信>支持台獨吧,product,producer,False
+GPE,日本,human-geographic territorial entity,location*organization,dot,話說如果我是王就移民到<日本>並入籍,organization,location,False
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,是真<瑞士>還是表面瑞士實際中國貨啊?,organization,organization,True
+GPE,新北市,human-geographic territorial entity,location*organization,organization,還有關於前幾天<新北市>里長出國 和 之前希臘遊學生回來確診的新聞讓網友獵巫,organization,organization,True
+ORG,輔大,university,organization*location*human,organization,一個很可能念過中一中和<輔大>的台中人。,organization,organization,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,。世界自然基金會就稱，「平均而言，<瑞士>人口的飛行次數是歐洲公民的三倍，駕駛著歐,organization,organization,True
+ORG,穆斯林,religious identity,organization*human,organization,因為歐洲的穆斯林比較多 為了讓<穆斯林>女性不再拘束於布基尼,organization,organization,True
+ORG,日軍,military unit,organization*human,human,媽的，旭日旗又怎樣?你們旁邊殺的人比<日軍>還多不靠腰逆,human,human,True
+PRODUCT,肯德基,business,producer*product*location,product,然後叫她不要每天都問我吃<肯德基>了沒有 槓,product,product,True
+ORG,清華大學,university,organization*location*human,organization,很好奇考進台灣清大的人去大陸考的進大陸的<清華大學>嗎？,organization,organization,True
+GPE,泰國,human-geographic territorial entity,location*organization,location,只是官台灣廠而已，還不是去<泰國>越南更便宜勞力設廠,location,location,True
+ORG,哈佛,university,organization*location*human,organization,同是從哈佛畢業的謝佩芬在直播節目《94要客訴》中表示，自己就讀<哈佛>公衛學院的,organization,organization,True
+GPE,烏克蘭,human-geographic territorial entity,location*organization,location,澤倫斯基在中止阿曼（Oman）行程飛回<烏克蘭>途中發布臉書貼文：「我要求大家別對這次,location,location,True
+GPE,新北市,human-geographic territorial entity,location*organization,organization,前華視主播現任民進黨<新北市>議員彭佳芸(民進黨鄭金隆媳婦),organization,organization,True
+ORG,德軍,military unit,organization*human,human,戰 最好是每個<德軍>都恰好從火線正面進攻,human,human,True
+ORG,慈濟,organization,organization*location*human,organization,曾經和慈濟志工一起搭著車去勘災的張麗善縣長指出，在災難現場，第一時間能看到<慈濟>志工，曾在水災後到沿海地區勘災，看到受災鄉親手裡拿著慈濟志工提供熱騰騰的便當，在這次防疫期間，慈濟基金會也給予關懷。,organization,organization,True
+GPE,美國,human-geographic territorial entity,location*organization,location,被問到美國是否會承認台灣時，班農提到，美國許多有能力的人士（包括他自己）在推動這件事，像是參議員盧比歐（ Marco Rubio）、參議員霍利（Josh Hawley）、參議員柯頓（Tom Cotton），「現在很多很多<美國>人，不管是民主黨人還是共和黨人，甚至不是那麼熱衷政治的人，在說：『該是我們承認台灣的時候了』，我們應該要大力推動。」「中共不應該對我們要承認誰有發言權，尤其在台灣於疫情期間展現了台灣人的英雄事蹟後。」,location,location,True
+ORG,中華航空,business,producer*product*location,producer,你先看看<中華航空>跟中華電信的英文名再發文好嗎= =,producer,producer,True
+ORG,國民黨,political party,organization*human,organization,<國民黨>應該急著準備要開記者會砲轟了?,organization,organization,True
+GPE,紐約,human-geographic territorial entity,location*organization,organization,"這篇文章沒有很清楚的說明紐約的要求,今天早上<紐約>州長的記者會則清楚多了",organization,organization,True
+ORG,紐約時報,mass media,organization*information*physical*human,organization,《<紐約時報>》報導說，前總統小布什和奧巴馬都不敢殺索萊馬尼，唯恐挑起戰爭，這使得,organization,organization,True
+ORG,國軍,military unit,organization*human,organization,，把黨軍變<國軍>，完全國家化了才在那邊靠北這是我們的,organization,organization,True
+ORG,台大,university,organization*location*human,organization,整，要求台大補正，但台大要教育部依<台大>校長遴選結果儘速發聘書。,organization,organization,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,<台北市>有這樣的市長發生這種事很柯學,organization,organization,True
+GPE,新北,human-geographic territorial entity,location*organization,location,〔記者翁聿煌／<新北>報導〕新北市長侯友宜今天上午陪同衛生福利部長陳時中前往位於烏,location,location,True
+PRODUCT,iPhone,business,producer*product*location,product,根據蘋果和Google的規畫，接觸追蹤感染技術之後會直接內建到<iPhone>和Android中，讓,product,product,True
+ORG,自由亞洲電台,mass media,organization*information*physical*human,organization,據《<自由亞洲電台>》報導，中國官媒公布習近平在周二前往安徽視察災民的系列照片，並,organization,organization,True
+GPE,桃園市,human-geographic territorial entity,location*organization,organization,民進黨立委郭國文29日在立法院質詢經濟部長沈榮津時直言，太過「順時中」無法發展經濟，害死台灣本土企業，讓海外市場被其他國家搶占先機，國民黨<桃園市>議員詹江村隨後在臉書點出原因，表示「台灣是因為鎖國才零確診」。對此，郭國文30日受訪時強調，自己在質詢談的是經濟與外交的因素，詹江村談的是防疫的部分，「他那個是兩回事」。,organization,organization,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,不少國家外匯存底升高也是相同原因，根據統計，單月外匯存底增量最多的為<瑞士>，截至,organization,organization,True
+PRODUCT,Google,business,producer*product*location,producer,其實是丟到<Google>翻譯後改幾個字就交差；或是初學者程度的小提琴手自稱名師開班收學,producer,producer,True
+GPE,波蘭,human-geographic territorial entity,location*organization,organization,歐盟要給祖國<波蘭>與硬漢捷克東歐,organization,organization,True
+PRODUCT,iPhone,business,producer*product*location,product,<iPhone>版，是中國最大的網路硬碟服務商之一。,product,product,True
+ORG,台大,university,organization*location*human,organization,上次不是<台大>跟中研院才再吵要停課的事 結果...,organization,organization,True
+PRODUCT,特斯拉,business,producer*product*location,product,我在沒有汽車的年代就開著<特斯拉>在高速公路奔馳,product,product,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,event,大嫂，同獲評審青睞，叔嫂兩人雙雙入圍金鐘戲劇節目視帝、視后，首度挺進<金鐘獎>。,event,event,True
+ORG,陸軍,military unit,organization*human,organization,<陸軍>的.45搞不好都二戰結束後美援留下來的 沒膛炸已經萬幸,organization,organization,True
+ORG,台積電,business,producer*product*location,location,→ kenichisun:下次去參觀<台積電>的話用手摸晶圓看看  純酸民,location,location,True
+GPE,澳洲,human-geographic territorial entity,location*organization,organization,我台中人 如果能有跟<澳洲>一樣的建築覺得驕傲,organization,organization,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,<台北市>議員監督台北市政府柯粉也有意見囉,organization,organization,True
+ORG,微博,business,producer*product*location,product,羅志祥工作室今在<微博>秀出律師聲明，表示「針對近期網路上編造發佈、傳播擴散有關羅,product,product,True
+ORG,台科大,university,organization*location*human,organization,在台灣如果你把台科大誤認成台大是污衊<台科大>,organization,organization,True
+GPE,臺北,human-geographic territorial entity,location*organization,location,（中央社記者黃麗芸<臺北>九日電）高雄檢方攜手廉政署破獲國營事業代考舞弊集團，其中,location,location,True
+GPE,法國,human-geographic territorial entity,location*organization,location,法國召見中國大使抗議中國在<法國>大外宣,location,location,True
+ORG,國民黨,political party,organization*human,organization,kmt真的瘋了 其實民進黨跟<國民黨>現在政治實力差不多吧,organization,organization,True
+WORK_OF_ART,諾貝爾文學獎,award,physical*event*human,physical,拿<諾貝爾文學獎>的「減班休息」，這些名詞背後都代表勞動權益因為外在條件受到一定損,physical,physical,True
+WORK_OF_ART,和平獎,award,physical*event*human,physical,在搞的好像死了個<和平獎>得主一樣是怎樣？,physical,physical,True
+GPE,荷蘭,human-geographic territorial entity,location*organization,organization,<荷蘭>送的是高達這牌子的焦糖煎餅,organization,organization,True
+WORK_OF_ART,聖經,work of art,information*physical,X,抱著一本書當<聖經> 你怎麼不去問問臨床前線醫師的經驗?,metaphor,physical,False
+ORG,北大,university,organization*location*human,organization,不知道韓總機本人為何不把<北大>博士學歷列入選舉公報,organization,organization,True
+ORG,北捷,business,producer*product*location,producer,之前新聞<北捷>就虧損了.要靠副業跟炒地皮那高捷也賺啊炒,producer,producer,True
+WORK_OF_ART,聖經,work of art,information*physical,information,<聖經>（偏門不管）基督宣揚的大抵是偏向善行那方面,information,information,True
+ORG,華為,business,producer*product*location,producer,近年<華為>使用高通晶片的比例逐漸下降。根據研調機構IHS Market的資料，華為手機使用,producer,producer,True
+WORK_OF_ART,聯合報,mass media,organization*information*physical*human,organization,八卦為了黑綠連<聯合報>都當綠媒罵,organization,organization,True
+GPE,烏克蘭,human-geographic territorial entity,location*organization,X,管線就要保<烏克蘭>) 我這邊有一批頁岩油可以賣你但貴一點,organization,?,False
+ORG,慈濟,organization,organization*location*human,organization,嘉義<慈濟>阿財記得有位卓春慧卓師姐,organization,organization,True
+ORG,慈濟,organization,organization*location*human,organization,不然你去外面問批踢踢跟<慈濟>的名聲,organization,organization,True
+ORG,吉野家,business,producer*product*location,location,重點是你有多久沒有走進<吉野家>過了,location,producer,False
+ORG,星巴克,business,producer*product*location,producer,只是小七各分店豆子品管不嚴，味道差異大，<星巴克>全國分店的美式味道還算統一，我從來沒有看過對咖啡講究的人會因為味道去買星巴克,producer,producer,True
+ORG,大潤發,business,producer*product*location,producer,常去的<大潤發>自助結帳機台旁有也店員看著呢,producer,location,False
+PRODUCT,iPhone,business,producer*product*location,product,執行長（ CEO ）雷軍近日卻被網友發現，他在微博回覆中用的卻是蘋果手機<iPhone>，讓,product,product,True
+ORG,護家盟,organization,organization*location*human,human,<護家盟>最好是關心人類滅不滅亡啦，笑死,human,organization,False
+ORG,國民黨,political party,organization*human,organization,住況來看，未來<國民黨>要在總統大選中勝利越來越難。」他認為這就是國民黨目前正在面對,organization,organization,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,organization,我們對於蘋果日報，在一兩個月前已經正式提出法律告訴。我知道，你們喜歡八卦，你們為什麼目標只看到韓國瑜八卦？不看到蔡總統的八卦？哦！你們害怕得罪當權派，你們永遠兩種標準。親愛的台灣同胞，<蘋果日報>這種沒有水準，專門造謠、中傷別人的媒體，你們要用智慧唾棄他，而且要看不起他。知識分子，這些記者，良心被狗吃掉了。,organization,organization,True
+GPE,東京,human-geographic territorial entity,location*organization,location,如果武漢肺炎疫情在日本嚴重惡化，比如<東京>都惡化成韓國大邱這個樣子,location,location,True
+ORG,中原大學,university,organization*location*human,organization,<中原大學>已經要率先推出全面遠距教學,organization,organization,True
+ORG,臺大,university,organization*location*human,organization,在8/25，學院收到衛生福利部來函，指出彰化縣衛生局說明該血清調查計畫是由<臺大>主持,organization,organization,True
+ORG,中華航空,business,producer*product*location,producer,<中華航空>跟中國航空明明就不同根本不需要改名，中華、,producer,producer,True
+WORK_OF_ART,蘋果,mass media,organization*information*physical*human,organization,賴3層樓別墅後方空地，確有一白色鐵皮的柱狀建築相當突兀。但賴接受《<蘋果>》查證時,organization,organization,True
+GPE,臺灣,human-geographic territorial entity,location*organization,organization,針對日前外交部長吳釗燮的「不與美國尋求全面建交，臺海發生衝突不會倚靠美國」一說，前民進黨立委林濁水表示，「怪」，這樣臺灣還是一個國家？難道不依靠美國干預，是因為<臺灣>比日本或德國還勇上百倍？,organization,organization,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,有沒有<淡水>交通要怎麼改才會比較好的八卦,location,location,True
+ORG,大潤發,business,producer*product*location,product,以前都買好事多大包或<大潤發>的給狗吃 一陣子就不吃,product,producer,False
+ORG,大潤發,business,producer*product*location,location,小時後陪大人去逛<大潤發> 經常看到有人未結帳直接把夾好貼,location,location,True
+ORG,自由亞洲電台,mass media,organization*information*physical*human,organization,武漢居民張如意對<自由亞洲電台>說，懷疑政府公布的數據。從去年12月初到,organization,organization,True
+ORG,師大,university,organization*location*human,human,<師大>比輔大就知道師大比較聰明了,human,location,False
+GPE,苗栗,human-geographic territorial entity,location*organization,location,、零售商店及民宿業者踴躍參與店家募集，吸引更多遊客到<苗栗>消費。,location,location,True
+GPE,苗栗,human-geographic territorial entity,location*organization,X,面英文譯名卻不同，譏諷「在苗栗國連<苗栗>的單字也拼的跟別縣市不一樣」；主管單位公,X,X,True
+GPE,南韓,human-geographic territorial entity,location*organization,organization,<南韓>、法國及英國都宣布準備撤僑，日本則已經帶離兩架飛機數量的民眾。,organization,organization,True
+GPE,比利時,human-geographic territorial entity,location*organization,dot,比利時蜂雪頌有供應比利時巧克力、鳳梨曼波、香草野莓、<比利時>焦糖餅乾這4種口味,dot,organization,False
+GPE,烏克蘭,human-geographic territorial entity,location*organization,organization,ㄆ <烏克蘭>派調查團查原因也包不住啦,organization,organization,True
+ORG,哈佛,university,organization*location*human,organization,除了耶魯大學中箭之外，哈佛早就成為標靶，<哈佛>幾年前被指控歧視亞裔美國人，去年美,organization,organization,True
+GPE,瑞典,human-geographic territorial entity,location*organization,organization,<瑞典>政府認為沒有能力大範圍檢測太耗資源,organization,organization,True
+PRODUCT,星巴克,business,producer*product*location,product,鄉巴佬搭飛機處男？過安檢在候機室買<星巴克>是不行逆？,product,product,True
+ORG,微博,business,producer*product*location,product,吳宗憲先解釋一下我們什麼時候有百度跟<微博>就好,product,product,True
+ORG,台積,business,producer*product*location,producer,還有<台積>新廠不是只帶來那幾千個工程師 他的設備商一樣帶,producer,producer,True
+ORG,護家盟,organization,organization*location*human,organization,至於修法，民進黨內部本來就是等大法官釋憲後低調一年，等大法官釋憲後通過，是因為某個黃色立委一直喊著要降低公投門檻，才讓<護家盟>出來搞專法公投，專法的話版本多種，最後民進黨也是選擇一個最接近民法的專法，民進黨要完全呼應公投民意的話就選護家盟版的專法就好了，何必到最後選擇用自己版本的專法？柯韓糞還看不懂逆,organization,organization,True
+ORG,台積,business,producer*product*location,producer,土條快出來罵<台積>怎麼不認購核電啊,producer,producer,True
+WORK_OF_ART,金馬獎,award,physical*event*human,physical,他好像是四大天王第一個拿到<金馬獎>男主,physical,physical,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,physical,對於民進黨高雄市長補選候選人陳其邁在<蘋果日報>刊登廣告撐香港，台灣民眾黨主席柯文,physical,physical,True
+ORG,中研院,educational institution,organization*location*human,organization,提案表示，考量中研院院士在學術界與<中研院>治理扮演重要決策角色，應維護我國價值與,organization,organization,True
+ORG,中國共產黨,political party,organization*human,organization,如果在香港或中國罵你蟑螂 罵你那個人幾乎都是<中國共產黨>黨員或其走狗,organization,organization,True
+PRODUCT,安卓,business,producer*product*location,product,不是說現在<安卓>新的手機已經比蘋果難解,product,product,True
+ORG,台彩,business,producer*product*location,product,你全包以後就有兩三個人跟你一起中，這就是<台彩>。,product,product,True
+PRODUCT,TikTok,business,producer*product*location,product,4.完整新聞內文:繼美國與印度相繼禁止使用中國<TikTok>應用程式後，北歐國家瑞典也開出第一槍，根據《法廣》報導，瑞典公共電視台（SVT）信息技術部認為，TikTok開發、並向其中國母公司字節跳動提供過多數據。因此，該電視台決定：禁止員工在工作電話上使用TikTok應用程式。,product,product,True
+ORG,鴻海,business,producer*product*location,producer,創辦人王來春曾是全球代工龍頭<鴻海>的員工，但如今該公司不僅營收增速快過鴻海，市值,producer,producer,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,organization,我們對於<蘋果日報>，在一兩個月前已經正式提出法律告訴。我知道，你們喜歡八卦，你們為什麼目標只看到韓國瑜八卦？不看到蔡總統的八卦？哦！你們害怕得罪當權派，你們永遠兩種標準。親愛的台灣同胞，蘋果日報這種沒有水準，專門造謠、中傷別人的媒體，你們要用智慧唾棄他，而且要看不起他。知識分子，這些記者，良心被狗吃掉了。,organization,organization,True
+ORG,台電,business,producer*product*location,producer,中間垂落的電線纏住機車與脖子摔車受傷，警方獲報後發現電線並非<台電>、第四台等相關單,producer,producer,True
+PRODUCT,蘋果,business,producer*product*location,product,我一直都覺得安卓比<蘋果>好用太多了阿,product,product,True
+ORG,清華大學,university,organization*location*human,organization,是誰把八國聯軍賠款拿去蓋<清華大學>! 是誰打敗日本,organization,organization,True
+ORG,華盛頓郵報,mass media,organization*information*physical*human,organization,不是她所撰寫的，但之後該名女記者撤掉推特上此篇貼文，隨後她遭到<華盛頓郵報>停職。,organization,organization,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,event,這一點，也讓當初金馬獎跟<金鐘獎>這樣的國際大型典禮，都訂他們(前身糧心廚房),event,event,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,進口，但現在各國都極缺醫療物資的情況下，對<瑞士>的打擊更是嚴重。,organization,organization,True
+WORK_OF_ART,毛語錄,work of art,information*physical,information,那些整天講他以前看過<毛語錄>跟簡體書店翻禁書的酒店議員是不是都該抓去槍斃了,information,information,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,organization,我希望罷免失敗是想看<壹週刊>王小姐續集,organization,?,False
+ORG,特斯拉,business,producer*product*location,producer,0關稅再補助特斯拉就是好政策，沒推<特斯拉>說要解決空汙的都是在騙啦。,producer,product,False
+GPE,英國,human-geographic territorial entity,location*organization,organization,要論惡霸，美國直接嗆<英國>不要介入南美洲事務，英國縮了,organization,organization,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,organization,除非有台灣價值的<自由時報>或三立這樣寫 不然我不相信啦~,organization,organization,True
+ORG,美國在台協會,organization,organization*location*human,organization,游錫堃今早在立法院接見<美國在台協會>主席莫健前受訪，他表示，這件事主要是人身安全,organization,organization,True
+GPE,臺北,human-geographic territorial entity,location*organization,X,噁男就噁男耖你媽死三寶三小雞腿駕照危害<臺北>,organization,location,False
+ORG,中國人民解放軍,military unit,organization*human,organization,<中國人民解放軍>把聯合國軍打得顏面掃地,organization,organization,True
+GPE,新北,human-geographic territorial entity,location*organization,organization,得了吧 講的好像你他媽<新北>真的很安居樂業一樣,?,location,False
+GPE,烏克蘭,human-geographic territorial entity,location*organization,organization,<烏克蘭>在歐洲窮國排名一直很前面，,organization,organization,True
+ORG,成大,university,organization*location*human,location,去<成大>記得要買他們最有名的食品大成雞塊,location,location,True
+ORG,台大,university,organization*location*human,organization,帳號 結果開放一天馬上被用<台大>信箱破解連續申請ptt帳,organization,organization,True
+ORG,中國共產黨,political party,organization*human,organization,他們歷史課本沒有蔣介石多次相信<中國共產黨>的故事,organization,organization,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,，由淡水區關渡橋從八里行經<淡水>方向，經過下橋處因不明原因自摔，送醫急救不治。警,location,location,True
+WORK_OF_ART,金曲獎,award,physical*event*human,event,"近年看<金曲獎>時發現認識的歌手越來越少,",event,event,True
+WORK_OF_ART,中國時報,mass media,organization*information*physical*human,organization,紅媒。最後民進黨也不敢對<中國時報>如何? 大笑,organization,organization,True
+ORG,台科大,university,organization*location*human,organization,婦仇者聯盟指控男子翁嘉駿自稱<台科大>高材生，還曾拿畢業證書證明，結果事後被揭穿，,organization,organization,True
+ORG,微軟,business,producer*product*location,producer,。由於包括<微軟>在內的多個遊戲開發者都利用虛幻引擎來建置遊戲，使得微軟也出面聲援,producer,producer,True
+GPE,澳門,human-geographic territorial entity,location*organization,organization,<澳門>的醫療真的都是澳門自己負責的嗎？,organization,location,False
+ORG,哈佛,university,organization*location*human,organization,所以你也不會知道  在五月時<哈佛>就做了檢測度的報告,organization,organization,True
+ORG,中原大學,university,organization*location*human,organization,。環球黨報是<中原大學>的上級單位逆！,organization,organization,True
+WORK_OF_ART,金曲獎,award,physical*event*human,event,的點在哪 臺灣樂迷這麼兇就繼續當小眾看<金曲獎>自慰吧,event,event,True
+ORG,蘋果,business,producer*product*location,producer,<蘋果>新機預購火爆的消息也讓外界開始擔心，新冠肺炎疫情是否會影響到該機款後續補貨,producer,producer,True
+ORG,美國之音,mass media,organization*information*physical*human,organization,「<美國之音>」報導，這場社運主要靠網上討論區及流動通訊程式動員，前所未見，令香港,organization,organization,True
+ORG,護家盟,organization,organization*location*human,human,歡迎藍甲抒發在國民黨場子聽<護家盟>高喊同性戀變態，並跟著,human,human,True
+PRODUCT,勞斯萊斯,business,producer*product*location,product,如題，像某神棍之流靠一張直銷嘴就能在鈔票池游泳，<勞斯萊斯>當保險套在換，沒事想幹,product,product,True
+ORG,家樂福,business,producer*product*location,location,不會去汐止好市多或新台五路遠雄<家樂福>喔 可憐鄉下,location,location,True
+ORG,台科大,university,organization*location*human,organization,大家只要知道私立三大<台科大>都不下於台科大 這樣就可以了,?,organization,False
+ORG,台科大,university,organization*location*human,organization,<台科大>是技職體系崩塌的頭號罪人,organization,organization,True
+ORG,輔大,university,organization*location*human,organization,若他英文那麼好，怎麼還待在<輔大>不去台政大或去歐美國,organization,organization,True
+ORG,清華大學,university,organization*location*human,organization,<清華大學>也分北京清華與新竹清華 同校,organization,organization,True
+ORG,美國在台協會,organization,organization*location*human,organization,<美國在台協會>（AIT）稍早也發布新聞稿指出，對於造成包括沈一鳴在內等八名人員不幸,organization,organization,True
+ORG,中國人民解放軍,military unit,organization*human,organization,成員申請研究簽證時，卻隱瞞他們與<中國人民解放軍>的真實從屬關係。這是中國共產黨,organization,organization,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,浙江省經濟規模與全球排第十七的荷蘭差距進一步縮小，河南省則擠掉<瑞士>成為全球第廿,organization,organization,True
+ORG,臺大,university,organization*location*human,organization,而現在念<臺大>的幾乎都是有錢人的小孩,organization,organization,True
+GPE,桃園市,human-geographic territorial entity,location*organization,organization,至前總統馬英九沒有賣力為韓國瑜輔選，選前大力挺韓的<桃園市>議員詹江村甚至看了徐巧,organization,organization,True
+WORK_OF_ART,聖經,work of art,information*physical,information,我沒有強迫誰接受<聖經>的所有內容，我說了只是聖經中有些道理是各文化共通的道理。,information,information,True
+GPE,桃園,human-geographic territorial entity,location*organization,organization,我看不出目前為止這裡任何一篇文章對桃園有「恨」，不管是對<桃園>市，桃園市民，桃園,organization,organization,True
+ORG,蘋果,mass media,organization*information*physical*human,organization,昨天《<蘋果>》臉書官網po出她在北醫就診的新聞後，逾千位網友留言痛罵她，「說中國好的人全都不留在中國」、「靠背臺灣還回來醫病，拜托多收一點健保費，醫療費也收多ㄧ點」、「這麼不相信祖國醫療的人，怎麼中國網民還相信她愛祖國的屁話」、「見笑死不是看不起台灣還要用我們台灣的健保真不要臉」。,organization,organization,True
+ORG,中華電信,business,producer*product*location,producer,收得到訊號，打電話去中華電信詢問，結果<中華電信>查詢後跟我回覆說是我們這,producer,producer,True
+ORG,三星,business,producer*product*location,producer,<三星>也用美國設備啊，理論上幾乎全世界的代工廠都無法,producer,producer,True
+ORG,家樂福,business,producer*product*location,producer,留一份的湯隔天買<家樂福>的羊肉再煮:3,producer,producer,True
+ORG,華為,business,producer*product*location,producer,其次，捷克國家網路及資訊安全辦公室早在2018年年底即警告<華為>和中興通訊的風險，成為,producer,producer,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,organization,且<自由時報>是不是就是警察調查局認證假新聞來源？,organization,information,False
+ORG,護家盟,organization,organization*location*human,organization,你兩年前的文說<護家盟>不推薦柯文哲 兩年後說柯是反同,organization,organization,True
+ORG,中原大學,university,organization*location*human,organization,請<中原大學>直接開堂課讓教授先學好，如何聰明有智慧,organization,organization,True
+GPE,緬甸,human-geographic territorial entity,location*organization,location,習大大訪<緬甸>打通中緬能源通道顯然是在,location,location,True
+ORG,中原大學,university,organization*location*human,organization,倒在D卡武肺版看到<中原大學>改採遠距教學了,organization,organization,True
+ORG,蘋果,business,producer*product*location,producer,<蘋果>是微信禁令中損失最大的公司之一，因為中國占其銷售的五分之一。<蘋果>公司的大部分製造業也依賴中國，如果中國政府決定採取報復行動，這可能會受到影響。 <蘋果>，財政部和白宮的代表拒絕置評。中國最大的公司之一騰訊的發言人沒有回應置評請求。 美國政府仍在研究如何強制部分禁止該應用程序的技術含義，關鍵問題是白宮是否允許<蘋果>和Alphabet Inc.的Google在其全球以外的全球應用程序商店中提供該應用程序在美國，如果是這樣的話，據不願透露姓名的人說。,producer,producer,True
+PRODUCT,肯德基,business,producer*product*location,product,生日快樂啊！還不趕快叫一桶<肯德基>全家餐來吃,product,producer,False
+GPE,新北市,human-geographic territorial entity,location*organization,organization,今年代表民眾黨參選<新北市>三重區立委的李旻蔚挑戰民進黨立委余天失利，沉潛一段時日,organization,organization,True
+ORG,中研院,educational institution,organization*location*human,organization,抱歉 我是想說教授那邊會不會可能有跟其他<中研院>的來,organization,organization,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,點<淡水>蔡依林和館長讚的一定是韓粉啊？,location,location,True
+ORG,小米,business,producer*product*location,producer,可<小米>在國外還是會偷傳用戶資料啊 不是嗎,producer,producer,True
+GPE,澳洲,human-geographic territorial entity,location*organization,X,〔即時新聞／綜合報導〕武漢肺炎疫情嚴重衝擊經濟，澳洲第二大的航空公司維珍<澳洲>航,X,location,False
+PRODUCT,iPhone,business,producer*product*location,product,郭明錤認為，上半年手機產業潛在3大風險，包括中國市場手機出貨將低於市場預期；5G手機對Android品牌換機需求貢獻小於預期；以及<iPhone>供應在首季因疫情拖累，故出貨量不及預期。,product,product,True
+ORG,自由亞洲電台,mass media,organization*information*physical*human,organization,自3月起，推特上出現多個仿照美國<自由亞洲電台>的帳號，例如「自由東北電台」、「自,organization,organization,True
+ORG,星巴克,business,producer*product*location,producer,還好吧 好姐妹建商二代也在<星巴克>打工阿 店長錢有多,producer,producer,True
+ORG,長榮,business,producer*product*location,product,航空界人士說，這一點也不意外，畢竟從國外返台就是搭<長榮>或是華航居多，先前已經有,product,product,True
+ORG,解放軍,military unit,organization*human,organization,所以你知道為什麼一開始就是<解放軍>封城了,organization,organization,True
+GPE,比利時,human-geographic territorial entity,location*organization,organization,<比利時>工程師，平時主要住在鹿港某家高級商務旅店。,organization,organization,True
+GPE,台南市,human-geographic territorial entity,location*organization,organization,我就任以來非常罕見地在會議中如此憤怒，因<台南市>環保局局長回應議員提出的諸多質疑，居然回覆： 立法委員 陳椒華 委員很關心，請委員在中央修法，只要中央裁罰依準出來，要罰多高，不管是72萬、720萬，甚至是7200萬，他都沒意見。環保局局長今天這樣的發言，是對自身專業應有的謹慎態度嗎？我完全不想把這個案件變成政治問題，但今天台南市環保局的發言顯然就是 ＃推給中央。我忍不住要問，台南市地方與中央如今全面執政，難道市府真的沒有管道向上反映來解決？真的沒有更積極的行政作為？市府需要把一切推給中央，那要環保局何用？,organization,organization,True
+GPE,臺灣,human-geographic territorial entity,location*organization,organization,拒絕<臺灣>只是反映一堆國家無腦親中,organization,organization,True
+ORG,美國在台協會,organization,organization*location*human,organization,台灣的防疫措施成為國際仿效對象，<美國在台協會>主席莫健日前與總統蔡英文會晤時,organization,organization,True
+ORG,台積電,business,producer*product*location,producer,研究所考上公職了啦幹，親戚爸爸負債千萬國中就學貸現在也在<台積電>了啦，小弟決心,producer,producer,True
+GPE,法國,human-geographic territorial entity,location*organization,location,這波口罩大缺口連遠在<法國>也銷售一空，當地藥房門口用中文字體寫上售罄，因為來搶口,location,location,True
+GPE,台南市,human-geographic territorial entity,location*organization,organization,。不過。民進黨<台南市>黨部主委黃先柱表示，這次選舉主要關係到黨中央的權力重組，與,organization,organization,True
+WORK_OF_ART,和平獎,award,physical*event*human,physical,熱試射核武這件事，如果這不該得和平獎那誰該得<和平獎>？,physical,physical,True
+ORG,陸軍,military unit,organization*human,organization,「刺胳針」表示，<陸軍>上尉出身的波索納洛近期開除頗受愛戴的衛生部長曼德塔（Luiz,organization,organization,True
+GPE,荷蘭,human-geographic territorial entity,location*organization,dot,為此，中美兩國駐荷蘭大使近日密集展開輿論攻防戰。中共駐<荷蘭>大使徐宏本月10日接受,dot,location,False
+WORK_OF_ART,和平獎,award,physical*event*human,physical,歐巴馬幹幾個月就能拿<和平獎>才是三小辣..,physical,physical,True
+ORG,高鐵,business,producer*product*location,producer,昨天起大規模解封，台鐵及<高鐵>也恢復保持社交距離下可以開放飲食或脫下口罩，車上販,producer,product,False
+ORG,微信,business,producer*product*location,product,將<微信>和中國短片應用TikTok一起封禁。一夜之間，中國最大的兩項互聯網創新變成了中,product,product,True
+PRODUCT,TikTok,business,producer*product*location,product,微軟週日（9月13日）宣佈稱：“‘字節跳動’今天通知我們，他們不會將<TikTok>在美國的業務出售給微軟。我們相信我們的提案對TikTok的用戶有利，同時又可以保護美國國家安全利益。”,product,product,True
+ORG,紐約時報,mass media,organization*information*physical*human,organization,另據美國<紐約時報>稍早前引述專家指出，突然喪失嗅覺或味覺異常，都可能是感染武漢肺炎的徵狀；這些人可能成為「隱性帶原者」，應自行隔離，以免無意中散佈病毒。,organization,organization,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,<淡水>蔡依林當初的任務也是拉下無慾昇,location,location,True
+WORK_OF_ART,金曲獎,award,physical*event*human,event,她1998年還拿到<金曲獎>最佳方言女演唱人,event,physical,False
+ORG,台電,business,producer*product*location,producer,<台電>有那麼多錢買河川地我都不知道,producer,producer,True
+GPE,英國,human-geographic territorial entity,location*organization,organization,大家都知道<英國>政策是輕症不理你在家自己顧，英國公布的一萬多死亡數字叫做,organization,organization,True
+PRODUCT,iPhone,business,producer*product*location,product,這意味，<iPhone>或Android手機的用戶若新冠病毒檢驗為陽性反映，並將此訊息加入公衛App,product,product,True
+ORG,特斯拉,business,producer*product*location,producer,最近，電動汽車企業特斯拉和圖形處理器設計企業輝達的股價也在急劇上升。由於<特斯拉>股價暴漲，創始人埃隆．馬斯克17日在彭博社億萬富翁指數中排名世界第四。,producer,producer,True
+ORG,中華航空,business,producer*product*location,producer,<中華航空>的問題就在國際知名度不足（其實飛了61年的老品牌怎麼可能國際沒人知道）,producer,producer,True
+WORK_OF_ART,花木蘭,work of art,information*physical,information,上映的<花木蘭>中，迪士尼感謝了吐魯番的公共安全局，這是一個參與了東突厥斯坦關押營,information,physical,False
+PRODUCT,勞斯萊斯,business,producer*product*location,product,中國微信有網友爆料，指山寨版<勞斯萊斯>在中國變成迎親熱門車，婚禮上隨處可見。,product,product,True
+PRODUCT,Google,business,producer*product*location,X,詢字串時，Google的目標是確保使用者在幾秒鐘內就能得到最相關的預測及資訊。<Google>,x,X,True
+ORG,紐約時報,mass media,organization*information*physical*human,organization,《<紐約時報>》引述美國外交關係協會亞洲部主任易明（Elizabeth Economy）稱，重塑形,organization,organization,True
+PRODUCT,iPhone,business,producer*product*location,product,知情人士指出，蘋果計畫在10月推出其5G版<iPhone>。麥艾佛瑞許說，部分用戶會希望立即升級到5G無線服務，該服務將具有「類似於家用寬頻的速度」。但很多人並不想為此服務支付額外費用，並且可能繼續對AT&T現有的4G LTE服務感到滿意。,product,product,True
+PRODUCT,勞斯萊斯,business,producer*product*location,product,車禍發生於5日晚間嘉義市中興路高鐵大道口，一輛白色機車不慎撞上行駛中的<勞斯萊斯>。只見勞斯萊斯的左側前輪上方板金疑似受撞凹陷，周圍還有幾處大小刮痕。警方隨後到場調查，將依雙方肇責，事後視雙方意願進行究責。有網友初估維修費用30萬元起跳。,product,product,True
+GPE,桃園市,human-geographic territorial entity,location*organization,organization,林明裕表示，由於<桃園市>前教育局長高安邦升任桃園市副市長後，其司機也隨即支援副市,organization,organization,True
+ORG,小米,business,producer*product*location,producer,上日本推特即時熱搜第一名。<小米>踢到鐵板主要是觸碰到了民族痛點的紅線。,producer,producer,True
+PRODUCT,特斯拉,business,producer*product*location,product,所以還能幫黑色<特斯拉>車主護航的我實在I服了YOU,product,product,True
+GPE,東京,human-geographic territorial entity,location*organization,location,（中央社東京26日綜合外電報導）日本<東京>都今天新增239例2019冠狀病毒疾病（COVID-19，武漢肺炎）確診病例，連續6天逾200例；兵庫縣也以單日新增49例創新高紀錄。另外，駐沖繩美軍基地群聚感染疫情持續，再添8例。,location,location,True
+GPE,台中市,human-geographic territorial entity,location*organization,organization,寬恒對戰2次皆敗的民進黨<台中市>議員陳世凱。,organization,organization,True
+GPE,桃園,human-geographic territorial entity,location*organization,organization,<桃園>人口增加是單純生育率增加嗎？還是其實只是別縣市,organization,location,False
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,<瑞士>曾因策略失誤，失去瑞士航空。,organization,organization,True
+ORG,吉野家,business,producer*product*location,producer,1926年<吉野家>遷移到日本東京都中央區築地。1958年12月27日，為使得牛丼餐廳企業化，,producer,producer,True
+ORG,成大,university,organization*location*human,X,在大學方面，為了迎接開學，國立台南大學與成功大學近日都展開校園全面消毒。<成大>在,?,organization,False
+ORG,中華電信,business,producer*product*location,producer,自找的 現在<中華電信>可以談免費放基地台了吧?,producer,producer,True
+PRODUCT,Google,business,producer*product*location,producer,另外，<Google>還在Meet增加降噪功能，可以智慧地過濾諸如背景狗叫聲或是鍵盤噪音，,producer,producer,True
+ORG,北捷,business,producer*product*location,producer,<北捷>昨天宣布除第一線人員戴口罩外，對旅客接觸較頻繁的設備，如廁所馬桶坐墊、廁間,producer,producer,True
+ORG,蘋果,business,producer*product*location,producer,另一方面，<蘋果>對於被Epic Games指控妨礙市場競爭一事，蘋果也在21日向法院提出了回應，指出Epic Games在這幾年享盡了蘋果App Store所提供的好處，卻不願遵守App Store的規範，其實Epic Games只要修正程式就好了,producer,producer,True
+ORG,哈佛,university,organization*location*human,organization,即使此<哈佛>非彼哈佛，她還是惦惦的吃哈佛豆腐直到被踢,?,organization,False
+PRODUCT,星巴克,business,producer*product*location,producer,今天<星巴克>買一送一，貪小便宜的我拉著老公久違的喝了一杯焦糖瑪奇朵。,producer,producer,True
+GPE,臺灣,human-geographic territorial entity,location*organization,organization,現在問題是你支那責任比較大還是CHO 一直扯<臺灣>幫不了你,organization,organization,True
+ORG,北大,university,organization*location*human,organization,個<北大>的女生被男友用這種洗腦玩到自殺，希望你早點醒,organization,organization,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,organization,剛剛同事們都在傳說<壹週刊>要收攤了,organization,organization,True
+ORG,塔利班,religious organization,organization*human,organization,美國與<塔利班>今年2月達成具里程碑意義的和平協議，內容包括阿富汗與塔利班進行換囚行動與推動阿富汗內部和談，以及駐阿富汗的美軍與盟國部隊將於2021年5月之前，撤出阿富汗。,organization,organization,True
+ORG,星巴克,business,producer*product*location,producer,<星巴克>店員會問你有沒有點東西喔,producer,producer,True
+ORG,台電,business,producer*product*location,producer,3.經濟部能源局電力組長吳志偉幫忙解釋，<台電>有很多球員，如果鎖在房間裡，根本就沒,producer,producer,True
+LOC,歐洲,human-geographic territorial entity,location*organization,organization,中國和俄國。<歐洲>國家不滿美國總統川普的「美國優先」政策以及他威脅對歐洲貨物加徵關,organization,organization,True
+ORG,華為,business,producer*product*location,producer,部已允許華為可採購部分美國製產品，盡可能降低<華為>客戶受到的干擾。許多華為的客戶,producer,producer,True
+ORG,民進黨,political party,organization*human,organization,<民進黨>還故意用一個假的反滲透法,organization,organization,True
+GPE,臺北市,human-geographic territorial entity,location*organization,location,他是<臺北市>最早的都市計劃新社區,location,location,True
+ORG,吉野家,business,producer*product*location,producer,台灣<吉野家>過去的二十五年賣了這麼多牛丼飯,producer,producer,True
+GPE,臺北,human-geographic territorial entity,location*organization,organization,兩位公衛背景的副總統都比你<臺北>市長大,organization,organization,True
+ORG,北大,university,organization*location*human,organization,太陽花時還以為她真的是<北大>法律，怎麼8+9味好重,organization,organization,True
+WORK_OF_ART,諾貝爾文學獎,award,physical*event*human,physical,4.完整新聞內文:2010年<諾貝爾文學獎>得主略薩（Mario Vargas Llosa）15日在西班牙《國家報》發表文章〈回到中世紀〉，談論目前肆虐全球的新冠病毒疫情。略薩說，儘管自中世紀以來文明取得非凡進步，但人類對瘟疫與死亡的恐懼卻沒有改變、始終如影隨形。他也批評中國沒有自由民主，試圖隱瞞消息、的打壓言論，才讓疫情演變到今日境地。,physical,physical,True
+ORG,政大,university,organization*location*human,organization,你可能確實認識一位在<政大>附中的甲甲,organization,organization,True
+ORG,鴻海,business,producer*product*location,producer,選人洪秀柱已邀請前立法院長王金平、<鴻海>創辦人郭台銘一同到場；但郭台銘辦公室表示,producer,producer,True
+ORG,鴻海,business,producer*product*location,product,賣掉<鴻海>之後下一檔讓他虧了好幾億,product,product,True
+GPE,澳門,human-geographic territorial entity,location*organization,location,魚與王姓投資人同遊<澳門>需要火力支援,location,location,True
+GPE,台南,human-geographic territorial entity,location*organization,location,很快地點了網路上一致推薦的魚丸湯，還有在<台南>小食店怎麼可以錯過的肉燥飯，最後怕不夠再多加了一份鹽煮魚肚。餐點很快送上，只能說，實在很好吃，這些在地經典道地的東西，不需要有多澎湃的調味，就可以有簡單卻深刻的美好滋味。著名的魚丸湯，湯頭清爽，魚丸滋味濃郁；肉燥飯以肥肉為主，像是北部的滷肉飯，正是我喜愛的口感，但福生的肉燥飯除了肉燥本身的滋味，還摻了應該是類似油蔥作為調味，讓整碗飯香上加香，真是好吃。最後就是怕份量不足多點的鹽水煮魚肚，滋味清甜，口感軟嫩，又是一個大大的滿足。因為所有的東西都那麼好吃，讓我一整個,location,location,True
+ORG,台灣大學,university,organization*location*human,location,1949年6月，有人在<台灣大學>散發中共地下刊物《光明報》，同年8月，台灣保密局逮捕了,location,location,True
+ORG,國民黨,political party,organization*human,organization,民黨山窮水盡當下，王金平出錢出力，都是為<國民黨>，所以這次才會認為以王金平的高度,organization,organization,True
+GPE,台北市,human-geographic territorial entity,location*organization,location,聽聞兩大<台北市>有錢人聚集的地方,location,organization,False
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,organization,對此，高市新聞局長鄭照新已向<自由時報>強調，現在是團結抗疫的時刻，陳前處長該珍惜,organization,organization,True
+GPE,美國,human-geographic territorial entity,location*organization,organization,賣給美國又不是變成<美國>人這麼爽，而是成為次等的殖民地,organization,location,False
+PRODUCT,蘋果,business,producer*product*location,producer,<蘋果>官網買可以免費鐫刻字或表情,producer,producer,True
+GPE,比利時,human-geographic territorial entity,location*organization,organization,昨天這集李P差不多把篩檢和最近<比利時>的案子講很清楚了,organization,organization,True
+PRODUCT,Intel,business,producer*product*location,producer,<Intel>跟AMD差別就在於利潤好幾萬還供不應求vs. 利潤,producer,producer,True
+GPE,東京,human-geographic territorial entity,location*organization,location,被國際奧委會決定從<東京>移到札幌 時間,location,location,True
+ORG,自由亞洲電台,mass media,organization*information*physical*human,human,諾民9月7日接受<自由亞洲電台>採訪時透露說：「現在各地組織老師，而且（官員）給每一,organization,organization,True
+GPE,義大利,human-geographic territorial entity,location*organization,X,現在是讓隱藏個案暴發出來的期間，<義大利>,X,X,True
+ORG,中原大學,university,organization*location*human,location,網咖全盛時期<中原大學>附近一小時5塊,location,location,True
+WORK_OF_ART,聖經,work of art,information*physical,information,看到引用失智列車<聖經>就知道大概發生什麼事了，74團真讓人,information,information,True
+ORG,政大,university,organization*location*human,organization,士」等，要查當年<政大>應聘她和升等公文來往，找到很多公文，但只看得到大要，想申請,organization,organization,True
+ORG,中國人民解放軍,military unit,organization*human,organization,），最後多由<中國人民解放軍>各部門買單。另雖無中國武器出口的官方數據，SIPRI相信,organization,organization,True
+WORK_OF_ART,聯合報,mass media,organization*information*physical*human,human,只有一個姓蔡然後<聯合報>沒寫政黨果然不意外呢,human,organization,False
+ORG,輔大,university,organization*location*human,location,沒想到<輔大>後門、輔大醫院後藏了間這麼美的咖啡店！,location,location,True
+ORG,護家盟,organization,organization*location*human,human,然後<護家盟>轉載韓的照片說就是要這樣教小,human,organization,False
+GPE,桃園,human-geographic territorial entity,location*organization,dot,講的好像中壢不是<桃園>的一部分一樣XD,organization,location,False
+WORK_OF_ART,花木蘭,work of art,information*physical,information,<花木蘭>真人版是不是只差這首歌就完整了,information,physical,False
+WORK_OF_ART,諾貝爾和平獎,award,physical*event*human,physical,－作家余杰在<諾貝爾和平獎>得主劉曉波《大國沉淪》推薦序,physical,physical,True
+GPE,苗栗,human-geographic territorial entity,location*organization,organization,<苗栗>以前的議長是真的請人吃過土豆的，不像現在EQ這樣好,organization,organization,True
+ORG,三星,business,producer*product*location,producer,科在5G的投資將使公司贏得全球客戶青睞；<三星>則拒絕評論。,producer,producer,True
+GPE,英國,human-geographic territorial entity,location*organization,X,要論惡霸，美國直接嗆英國不要介入南美洲事務，<英國>縮了,X,organization,False
+GPE,泰國,human-geographic territorial entity,location*organization,organization,"  以上僅台港日, 還未加上中國遊客出境遊觀光大國<泰國>跟新馬(都是境外病例多的區域)",organization,location,False
+GPE,紐西蘭,human-geographic territorial entity,location*organization,organization,〔即時新聞／綜合報導〕紐西蘭本土武漢肺炎（新型冠狀病毒病，COVID-19）感染持續擴大，紐西蘭最大城市奧克蘭11日傳出一起4人確診的家庭群聚感染，震驚全國，因為紐西蘭3個月來都沒有出現過境內感染傳播，而今天<紐西蘭>通報新增14人確診，其中13人與這起家庭群聚有關，另外1人則是境外移入案例。,organization,organization,True
+GPE,台北市,human-geographic territorial entity,location*organization,location,<台北市>大火，為何行政院長跟總統沒在現場指揮!? 小小市長,location,location,True
+ORG,哈佛大學,university,organization*location*human,organization,<哈佛大學>的生物課上，教授正在討論精液裡的高葡萄糖指數...,organization,organization,True
+GPE,紐約,human-geographic territorial entity,location*organization,organization,很多外州醫護早就想擠進薪水高的<紐約>州工作了只是紐約執,organization,location,False
+ORG,長榮,business,producer*product*location,producer,開來」。但《三立新聞網》獨家取得消息，<長榮>為因應仍有部分航班仍在運行，號召「勇者,producer,producer,True
+GPE,花蓮,human-geographic territorial entity,location*organization,location,高層指示下，黃復興黨部在<花蓮>的黃榮華支黨部，今天將分別召開考紀會與委員會，預定,location,location,True
+GPE,台南,human-geographic territorial entity,location*organization,organization,<台南>那麼愛吃爐渣怎不改名叫爐渣市？,organization,organization,True
+ORG,塔利班,religious organization,organization*human,organization,不過這場談判對<塔利班>也是挑戰，因為他們也有責任要為國家提出一套可行的政治前景計畫。到目前為止他們的主張都很模糊，只說希望能有一個兼顧包容的「伊斯蘭政府」,organization,organization,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,organization,<自由時報>這樣標題就是要帶都是國防部錯阿 一堆人中計,organization,information,False
+WORK_OF_ART,水滸傳,work of art,information*physical,information,《<水滸傳>》的故事。因為村民都不識字，所以習近平自然就成為村裡最有學問的人，,information,information,True
+ORG,護家盟,organization,organization*location*human,human,<護家盟>除了不會教小孩還不知道怎麼維持家庭了嗎,human,human,True
+GPE,比利時,human-geographic territorial entity,location*organization,organization,我記得<比利時>是說不是近期感染欸，時間都過這麼久，沒有,organization,organization,True
+ORG,國軍,military unit,organization*human,organization,一定是韓國瑜給假資料要鬥死<國軍>的，快加,organization,organization,True
+PRODUCT,TikTok,business,producer*product*location,product,分析人士指出，這意味著字節跳動若不在45天內將<TikTok>出售給微軟，TikTok就將和微信一同被封禁。川普的這道行政令，將帶給字節跳動帶來更大的談判壓力。,product,producer,False
+WORK_OF_ART,蘋果,mass media,organization*information*physical*human,information,分析來看，《<蘋果>》在民主一詞使用上所展現出來立場，顯現不得罪藍綠特性，也減少負,information,organization,False
+PRODUCT,勞斯萊斯,business,producer*product*location,product,嘉義日前發生一起機車與一輛要價3000萬的<勞斯萊斯>「幻影」擦撞意外，維修費用高達百,product,product,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,physical,<自由時報>就是人渣報紙幹你娘全家死光,physical,information,False
+ORG,鴻海,business,producer*product*location,producer,鴻海也持續布局口罩生產。先前鴻海低調證實，3月中旬<鴻海>旗下鴻騰六零八八精密（,producer,producer,True
+GPE,日本,human-geographic territorial entity,location*organization,organization,#中國日本州   台灣回歸<日本>跟回歸中國根本沒兩樣,organization,organization,True
+ORG,政大,university,organization*location*human,organization,原來還有人不知道<政大>以前是黨校喔,organization,organization,True
+GPE,新北市,human-geographic territorial entity,location*organization,organization,環保局長程大維指出，民眾對於車輛不當改裝導致噪音無法忍受，<新北市>自108年5月起導,organization,organization,True
+GPE,澳門,human-geographic territorial entity,location*organization,organization,澳門的醫療真的都是<澳門>自己負責的嗎？,organization,organization,True
+ORG,華航,business,producer*product*location,organization,立法院各黨團，鑒於中華航空（CHINA AIRLINES）（下簡稱華航）在世界各國被誤認為來自中國的中國國際航空（AIR CHINA），屢屢造成混淆，為強化我國之國際識別，交通部應積極推動短中長期之<華航>正名，經協商共同聲明如下：,organization,producer,False
+ORG,台鐵,business,producer*product*location,producer,台鐵表示，有關「工程建設暨政策網路行銷」勞務採購案，為台鐵局首次辦理招標行銷模式，採公告固定金額以最有利標方式決標，總經費為600萬元，為期半年，於去(2019)年12月依採購法辦理公開招標，計有4家廠商參與投標，經評選由春露行銷公司得標，於2020年6月27日合約屆滿。經檢視及評析辦理成效，與採購目標相符，也對於<台鐵>形象及施政成果宣傳確有發揮正面提升效果，爰應業務需要，於今年7月另案辦理為期一年的新,producer,producer,True
+ORG,台積電,business,producer*product*location,producer,叫我一定要把博士班的學生送去<台積電>,producer,producer,True
+GPE,新北,human-geographic territorial entity,location*organization,organization,［記者何玉華／新北報導］今年3月轉任<新北>市政府法制局長的前檢察官吳宗憲，傳出為,organization,organization,True
+ORG,微信,business,producer*product*location,product,中國支付寶跟中國<微信>支付這麼好用 你不會去中國用？臺,product,product,True
+ORG,臺大,university,organization*location*human,organization,現在人家在<臺大>做研究任教爽爽的，,organization,organization,True
+ORG,政大,university,organization*location*human,organization,<政大>也是這樣 用口試成績硬調整出不一樣的結果,organization,organization,True
+ORG,好市多,business,producer*product*location,product,要吃爭先不如去吃<好市多>新鮮度屌打,location,product,False
+ORG,德國之聲,mass media,organization*information*physical*human,organization,《<德國之聲>》引述柏林病毒研究專家德羅斯滕表示，大概每10年會出現一次，未知病毒在,organization,organization,True
+ORG,紐約時報,mass media,organization*information*physical*human,human,<紐約時報>訪問申請上耶魯的亞裔學生說，他認為司法部是故意的，他說：「我認為這是書,organization,organization,True
+GPE,臺北,human-geographic territorial entity,location*organization,organization,信義區貧民窟無誤，東西真的相較<臺北>算便宜，就算嫌貴旁邊也有吳興市場可以買，甚至,organization,location,False
+PRODUCT,星巴克,business,producer*product*location,product,我算過一個禮拜一杯<星巴克>一年就可以有金卡,product,product,True
+GPE,新北,human-geographic territorial entity,location*organization,organization,<新北>公務基層應該都很感謝侯幫忙出口氣,organization,organization,True
+ORG,特斯拉,business,producer*product*location,producer,你或許會問，難道除了<特斯拉>之外，其他車廠就沒有發生過方向盤鬆脫的案例？老實說，,producer,producer,True
+WORK_OF_ART,毛語錄,work of art,information*physical,information,中國人就滾回去背<毛語錄>跟習思想，玩什麼遊戲,information,information,True
+LOC,歐洲,human-geographic territorial entity,location*organization,organization,歐洲聯盟（EU）今天公布要在今夏分階段重啟境內旅行的計畫，希望藉此挽救<歐洲>旅遊業,organization,organization,True
+ORG,中國國民黨,political party,organization*human,organization,<中國國民黨>的敵人就是在地的台澎人啊，動作這麼明顯，,organization,organization,True
+ORG,華航,business,producer*product*location,organization,立法院各黨團，鑒於中華航空（CHINA AIRLINES）（下簡稱<華航>）在世界各國被誤認為來自中國的中國國際航空（AIR CHINA），屢屢造成混淆，為強化我國之國際識別，交通部應積極推動短中長期之華航正名，經協商共同聲明如下：,organization,producer,False
+ORG,師大,university,organization*location*human,organization,如果在昨天跟今天你們家人或朋友收到隔離通知單又說不出跟那個<師大>學生哪裡有關係，基本上就已經八九不離十了啦，也不用再去問他了啦。,organization,organization,True
+GPE,紐西蘭,human-geographic territorial entity,location*organization,dot,施壓，隔空向中國駐<紐西蘭>大使吳璽喊話：「應該聽主人（指中國外交部長王毅）的話」,dot,location,False
+WORK_OF_ART,蘋果,mass media,organization*information*physical*human,organization,不過，新屋主承接這棟全國矚目違建農舍將滿一年，《<蘋果>》續追近況發現，,organization,organization,True
+WORK_OF_ART,聖經,work of art,information*physical,information,，然後堅持<聖經>裡每一個字都是真的，還夾纏,information,information,True
+WORK_OF_ART,蘋果,mass media,organization*information*physical*human,organization,《<蘋果>》在拍照過程中，發現女子擺姿非常專業，一問之下才知道原來是專業車模兼主持,organization,organization,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,event,也拿過金曲獎跟<金鐘獎>最佳主持人獎,event,physical,False
+ORG,北捷,business,producer*product*location,producer,<北捷>明明可以直接宣導左右都可站 為什麼不做,producer,producer,True
+ORG,台積,business,producer*product*location,X,大立光跟<台積>扣掉台中應該更精采,?,producer,False
+ORG,清大,university,organization*location*human,organization,，並孕育出諾貝爾獎得主的<清大>合作。兩方優勢互補，創造雙贏，他很高興能與清大同行。,organization,organization,True
+GPE,波蘭,human-geographic territorial entity,location*organization,dot,人將轉移到包括<波蘭>在內的歐洲其他國家。,dot,organization,False
+ORG,長榮,business,producer*product*location,producer,至於受到北京疫情影響是否停飛，華航和<長榮>皆表示每周都有一航班，會視疫情適度調整,producer,producer,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,organization,台灣有些弊案黑箱是靠<壹週刊>爆料來領,organization,organization,True
+ORG,慈濟,organization,organization*location*human,organization,曾經和<慈濟>志工一起搭著車去勘災的張麗善縣長指出，在災難現場，第一時間能看到慈濟志工，曾在水災後到沿海地區勘災，看到受災鄉親手裡拿著慈濟志工提供熱騰騰的便當，在這次防疫期間，慈濟基金會也給予關懷。,organization,organization,True
+ORG,蘋果,business,producer*product*location,producer,這款應用程式仰賴美國科技巨擘<蘋果>（Apple）和谷歌（Google）研發的軟體，且為了緩,producer,producer,True
+GPE,淡水,human-geographic territorial entity,location*organization,location,一個其實離東區很近 但是塞車塞到跟<淡水>一樣遠的感覺,location,location,True
+ORG,政大,university,organization*location*human,location,友  不管我在<政大>或師大或陽明看到的 好像都是同1個女生,location,location,True
+ORG,國民黨,political party,organization*human,organization,事實證明韓國瑜掛<國民黨>也包裝成功過,organization,organization,True
+ORG,三星,business,producer*product*location,producer,<三星>能自己生產芯片，而最大的芯片代工廠則是台積電，由於三星在同種芯片工藝下的進展,producer,producer,True
+GPE,新北,human-geographic territorial entity,location*organization,X,拿武器攻擊警察就跳到有沒有合法擁槍？那<新北>隨即刀刺,?,?,True
+ORG,三星,business,producer*product*location,producer,但<三星>強調，公司在南韓其他地方的晶片及顯示器工廠生產不受影響。（譯者：陳正健/,producer,producer,True
+ORG,鴻海,business,producer*product*location,producer,〔記者陳昀／台北報導〕<鴻海>創辦人郭台銘稍早在臉書發文指出，雖然他提出國會「兩大,producer,producer,True
+ORG,美國之音,mass media,organization*information*physical*human,organization,言向無新聞自由或新聞自由有限地區的聽眾進行報導。但儘管<美國之音>是國有的獨立媒體,organization,organization,True
+GPE,紐約,human-geographic territorial entity,location*organization,location,最後就是各州自己玩，你是一個國家耶，封了<紐約>封了加州其他州的北七還是,location,location,True
+GPE,紐約,human-geographic territorial entity,location*organization,location,在<紐約>確診的武漢肺炎病例增加到76起之後，州長Andrew Cuomo在周六宣布進入緊急狀態,location,location,True
+ORG,哈佛,university,organization*location*human,organization,是在<哈佛>的范建夫妻就告訴你答案了,organization,?,False
+PRODUCT,TikTok,business,producer*product*location,product,目前尚不清楚在美國擁有約1億活躍用戶的TikTok會發生什麼。微軟或甲骨文都不被看好是最適合<TikTok>的買家，因為TikTok的觀眾以年輕人為主，他們喜歡分享短視頻。,product,product,True
+ORG,民進黨,political party,organization*human,organization,柯文哲下午率市府團隊赴台北市議會進行市政總質詢，被<民進黨>市議員李建昌、許淑華、,organization,organization,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,human,國際審查委員、總統府人權諮詢委員、現任立委、金馬獎與<金鐘獎>導演等社會賢達人士。,human,physical,False
+ORG,台積電,business,producer*product*location,producer,又接下執行長職位，有違當初退休時承諾「絕不做與老東家<台積電>競爭或傷害台積電」，,producer,producer,True
+GPE,苗栗,human-geographic territorial entity,location*organization,organization,當政府像<苗栗>一樣全都沒錢的時候，光垃圾不清運，看你是能,organization,organization,True
+ORG,護家盟,organization,organization*location*human,organization,現任民眾黨秘書長謝立功支持<護家盟>反對同婚；,organization,organization,True
+ORG,中國共產黨,political party,organization*human,organization,所以美國民主進步黨與<中國共產黨>、中國民主進步黨，努力反對美國總統川普。,organization,organization,True
+GPE,瑞典,human-geographic territorial entity,location*organization,organization,人家政治正確又瑞典人，不頒給她我看<瑞典>王室明天就不在,organization,organization,True
+LOC,歐洲,human-geographic territorial entity,location*organization,location,為何這次沒有讓我們最嚮往的<歐洲>國家們哀傷,location,organization,False
+PRODUCT,勞斯萊斯,business,producer*product*location,product,美國車<勞斯萊斯>和通用汽車內需就夠了,product,product,True
+GPE,花蓮,human-geographic territorial entity,location*organization,location,在<花蓮>國罵習維尼去死就是扣哥不對了,location,organization,False
+ORG,自由亞洲電台,mass media,organization*information*physical*human,organization,<自由亞洲電台>報導，這封以「要求對通遼地區蒙古族中小學雙語教學改革的政務公開的申,organization,organization,True
+ORG,美國之音,mass media,organization*information*physical*human,organization,班奈特與菅原也在信中向美國之音的員工表示，即便他們離開<美國之音>，這些員工也無需,organization,organization,True
+ORG,好萊塢,human-geographic territorial entity,location*organization,product,守規矩 那就跟<好萊塢>的人結婚就好幹嘛嫁,product,organization,False
+GPE,南韓,human-geographic territorial entity,location*organization,organization,還有最近聽說<南韓>口罩一個禮拜限買2片、一片折合台幣40塊左右,organization,organization,True
+WORK_OF_ART,中國時報,mass media,organization*information*physical*human,organization,自由時報和<中國時報>就擁護的黨相反而已，那有啥差,organization,organization,True
+ORG,華航,business,producer*product*location,producer,<華航>正名問題不是今年才第一次提出 當年馬在任時就吵過,producer,producer,True
+ORG,臺大,university,organization*location*human,organization,術書籍販售以及展售<臺大>各級單位、授權廠商之紀念用品。服務態度依循<臺大>校訓敦品勵,organization,organization,True
+ORG,自由亞洲電台,mass media,organization*information*physical*human,organization,正在研究中國人工智能及科技監控相關議題的美國維吉尼亞大學傳媒教授孔安怡（Aynne Kokas）告訴<自由亞洲電台>，這類數據蒐集最常被使用在三個方面，第一是訓練軍用或商用的人工智能演算法，第二是信息戰，第三則是鎖定特定人員作情報工作。,organization,organization,True
+ORG,台彩,business,producer*product*location,producer,我認為<台彩>最大的問題就是沒有售出存根,producer,producer,True
+WORK_OF_ART,諾貝爾文學獎,award,physical*event*human,physical,我覺得范瑋琪應該得<諾貝爾文學獎>！,physical,physical,True
+GPE,桃園市,human-geographic territorial entity,location*organization,organization,希望巢運組織不是只會幫<桃園市>製圖而已QQ,organization,organization,True
+ORG,台鐵,business,producer*product*location,producer,根本是<台鐵>的自我管理出了很大的問題,producer,producer,True
+ORG,微軟,business,producer*product*location,producer,故事諷，「如果有一個專業經理人在<微軟>上班，但天天幫Facebook發展業務搞到最後微軟,producer,producer,True
+GPE,美國,human-geographic territorial entity,location*organization,organization,可是很多<美國>人不知道中共把病毒賴給美國,organization,location,False
+ORG,北捷,business,producer*product*location,producer,<北捷>統計，今年7月應回饋金額約有1.49億元，目前已回饋金額約6000萬元，尚未領取回饋的民眾要留意領取期限，且一定要經閘門刷卡才可領取回饋金。北捷也鼓勵民眾，搭乘捷運合併一張票卡，這樣金額才可一起累積。,producer,producer,True
+ORG,三星,business,producer*product*location,producer,<三星>和台積電是華為的主要晶片供應商，大陸的中芯雖然向華為供貨，但其技術一直停留,producer,producer,True
+WORK_OF_ART,毛語錄,work of art,information*physical,information,那個膚淺的傢伙把電視劇當成歷史課，把<毛語錄>當成,information,information,True
+PRODUCT,勞斯萊斯,business,producer*product*location,product,李笑來，宣佈退出所有虛擬貨幣投資，不過依然在微博炫富他買了全中國最貴的<勞斯萊斯>。,product,product,True
+GPE,東京,human-geographic territorial entity,location*organization,location,開啟手機看了一下名片上地址的地方，發現離<東京>不遠且還算是頗有名的觀光景點,location,location,True
+GPE,桃園,human-geographic territorial entity,location*organization,location,來<桃園>啦...... 台北太藍桃園比較多看政績的選民,location,location,True
+GPE,臺北,human-geographic territorial entity,location*organization,organization,原來是被<臺北>市長耽誤的販賣機達人啊,organization,organization,True
+GPE,瑞士,human-geographic territorial entity,location*organization,location,進口。其中，也委託了位於德國境內的公司幫忙採購運回<瑞士>。,location,location,True
+ORG,中原大學,university,organization*location*human,organization,師皆受中華民國的保障，無庸置疑。最後，<中原大學>一向以營造友善校園為教育使命，校,organization,organization,True
+ORG,國民黨,political party,organization*human,organization,<國民黨>因此質疑，蘇貞昌要想撇清自己與其中負責建案的寶佳集團沒有往來，恐怕難以說服,organization,organization,True
+WORK_OF_ART,聖經,work of art,information*physical,information,若你們美國人沒達到相應的靈性標準  <聖經>的  神  隨時可以取回一切,information,information,True
+ORG,中研院,educational institution,organization*location*human,organization,在發出台美聯合聲明後，美國在台協會粉絲專頁接著貼出處長酈英傑與<中研院>院長廖俊智,organization,organization,True
+GPE,臺北市,human-geographic territorial entity,location*organization,location,新工處工務科科長郭俊昇表示，第一果菜批發市場位於<臺北市>萬華區萬大路，於民國63年,location,location,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,X,女毒蟲拒檢倒車撞死女童案桃園地院下午宣判 - <壹週刊>tw.nextmgz.com ?,?,organization,False
+ORG,微信,business,producer*product*location,product,對於微信，商務部新聞稿指出，自20日起，禁止網路供應商和內容傳遞服務業者支援<微信>,product,product,True
+PRODUCT,TikTok,business,producer*product*location,product,中國共匪開發的軟體；如抖音、<TikTok>，顯示了很多侵權的行為和用戶隱私外洩的重大,product,product,True
+ORG,美國在台協會,organization,organization*location*human,organization,<美國在台協會>和台灣的軍事合作—美國在台協會軍事合作辦公室主任與台灣陸軍司令會,organization,organization,True
+GPE,台中市,human-geographic territorial entity,location*organization,organization,立法院副院長蔡其昌今（19）日接受廣播電台採訪時指台中市政空轉，<台中市>政府隨即嚴,organization,organization,True
+PRODUCT,安卓,business,producer*product*location,product,"有用過蘋果跟安卓的人比較一下就知道,耗電程度大概<安卓>比蘋果多一兩倍",product,product,True
+ORG,微軟,business,producer*product*location,product,國外網站一千台幣左右的買一買再綁<微軟>帳號就好了...,product,product,True
+ORG,台鐵,business,producer*product*location,product,台中名產太陽餅是因為<台鐵>列車廣播販賣幾十年的印象,product,product,True
+ORG,微軟,business,producer*product*location,producer,2016年5月18日，<微軟>確認以3.5億美元的交易價格將諾基亞功能機業務出售給富智康。富,producer,producer,True
+ORG,哈佛,university,organization*location*human,X,不能改成哈佛，之前的小<哈佛>美語補習班聽說就是因為哈佛校,?,organization,False
+ORG,交大,university,organization*location*human,human,九面這成就不用<交大>就能達成了好ㄇ,human,organization,False
+ORG,麥當勞,business,producer*product*location,location,幹你娘一群死屁孩把<麥當勞>當桌遊店,location,location,True
+PRODUCT,肯德基,business,producer*product*location,product,<肯德基>真的比較好吃這個沒有任何爭議,product,product,True
+ORG,哈佛,university,organization*location*human,organization,但他養得起留學美國的<哈佛>女兒和一堆有能力移民的家人,organization,organization,True
+GPE,澳門,human-geographic territorial entity,location*organization,location,台灣又不能開賭場為什麼要去非洲賭場學經驗....要去<澳門>,location,location,True
+PRODUCT,肯德基,business,producer*product*location,product,總不可能今天吃麥當勞明天吃<肯德基>吧,product,product,True
+ORG,美軍,military unit,organization*human,organization,、山東號，<美軍>不自己對付遼寧號，請問是要賣什麼給台灣去事倍功半殲滅中國航母戰鬥,organization,organization,True
+ORG,小米,business,producer*product*location,producer,至於<小米>原本就是以陸資身分申請來台從事買賣業，已經過投審會審理，因此也沒有問題,producer,producer,True
+GPE,新北市,human-geographic territorial entity,location*organization,organization,如果<新北市>要把一個扯後腿的區踢掉，要踢哪個???,organization,organization,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,event,戲劇方面則多次入圍<金鐘獎>戲劇節目男主角，雖然沒有得獎，但收視率表現都相當亮眼。,event,event,True
+ORG,中華郵政,business,producer*product*location,producer,而且<中華郵政>暫停收寄根本不是誰的問題,producer,producer,True
+GPE,臺北市,human-geographic territorial entity,location*organization,organization,、必應創造營運長陳宜盈與<臺北市>吉祥物熊讚，齊聚跨年舞台一同倒數，現場響起華視,organization,dot,False
+ORG,中華郵政,business,producer*product*location,producer,對此，<中華郵政>回應，經初步查證，相關粉絲專頁貼文之署名為網路匿名，是否確為郵政,producer,producer,True
+ORG,清大,university,organization*location*human,organization,就讓我想到那個被撞死的<清大>博士生被撞死,organization,organization,True
+ORG,穆斯林,religious identity,organization*human,organization,主義者指控<穆斯林>是社會問題根源，就連新冠肺炎疫情也不例外。生活在印度的穆斯林可,organization,human,False
+ORG,美國在台協會,organization,organization*location*human,organization,（見的那個外國人好像是<美國在台協會>會長？）,organization,organization,True
+GPE,瑞典,human-geographic territorial entity,location*organization,organization,【新唐人北京時間2020年04月23日訊】上週，<瑞典>關閉了境內的最後一所孔子學院，分析,organization,organization,True
+GPE,台南,human-geographic territorial entity,location*organization,location,，目前正在<台南>祀典武廟桌上趴著睡覺。,location,location,True
+ORG,蘋果,business,producer*product*location,producer,結果早上<蘋果>報導盤石艦真的是跑去南海演習XD,producer,information,False
+GPE,紐西蘭,human-geographic territorial entity,location*organization,organization,情所採取的措施進行獨立調查。今天譚德塞宣布將由<紐西蘭>前總理克拉克（Helen Clark,organization,organization,True
+ORG,大潤發,business,producer*product*location,producer,彰化沒有百貨公司，超市也是只有在有規模的聚落會有個一兩間，更不要去說量販店這種東西，我知道的就是彰化市在金馬路上有一間家樂福，在員林市快速道路那邊有一間<大潤發>，其他的都是像全聯 喜美 豐康這種超市，喜美超市裡面還會有那種市場豬肉攤,producer,producer,True
+ORG,護家盟,organization,organization*location*human,human,甲甲會去跟女人結婚就是<護家盟>號召的啊,human,organization,False
+ORG,國民黨,political party,organization*human,organization,我怎麼覺得現在嘴<國民黨>反而很安全？,organization,organization,True
+PRODUCT,安卓,business,producer*product*location,product,橫幅廣告那個是不是<安卓>才能用啊,product,product,True
+ORG,高鐵,business,producer*product*location,product,看<高鐵>現在班次還能隨便選就知道不樂觀了,product,product,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,X,去看看七月的<自由時報>和中國時報,?,information,False
+GPE,烏克蘭,human-geographic territorial entity,location*organization,location,在發佈會上表示，<烏克蘭>境內確診首例新冠肺炎病例。該患者乘車從羅馬尼亞到<烏克蘭>切,location,location,True
+GPE,紐約,human-geographic territorial entity,location*organization,organization,全美國只有<紐約>有在動作其他才在龜,organization,organization,True
+ORG,鴻海,business,producer*product*location,producer,我覺得他目前最好的身分就是<鴻海>創辦人,producer,producer,True
+GPE,比利時,human-geographic territorial entity,location*organization,organization,往更難訂貨，除了<比利時>工程師確診引發人心惶惶外，前副總統陳建仁呼籲大眾先存好3,organization,organization,True
+WORK_OF_ART,聖經,work of art,information*physical,information,裡面說其實<聖經>當中所說的蛇是賜予人類智慧的外星人祖先,information,information,True
+GPE,美國,human-geographic territorial entity,location*organization,organization,川普說，<美國>也會禁止有潛在安全風險的人員入境。,organization,organization,True
+ORG,美國在台協會,organization,organization*location*human,organization,<美國在台協會>（AIT）與台北市政府松山文創園區今日共同舉辦美國創新中心（AIC）6週,organization,organization,True
+ORG,清大,university,organization*location*human,organization,<清大>生科高於國防牙醫也是莫名其妙啊,organization,organization,True
+GPE,桃園市,human-geographic territorial entity,location*organization,organization,57%，由於該工程進度超前，並無趕工需求，因此，交通局委託專業第三方<桃園市>結構技,organization,organization,True
+ORG,穆斯林,religious identity,organization*human,organization,亞齊省是印尼唯一還施行極端<穆斯林>律法《Qanun》的省份，該法賦予政府對民眾實施鞭,organization,organization,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,human,都是<金鐘獎>的謝謝你兄弟害我們沒有痞子英雄二可以看,human,event,False
+ORG,美國在台協會,organization,organization*location*human,organization,<美國在台協會>也在官網公布美台聯合聲明，全文如下：,organization,organization,True
+ORG,大潤發,business,producer*product*location,producer,想請問台南除了<大潤發>和好事多以外,producer,producer,True
+ORG,日軍,military unit,organization*human,organization,從小看戰爭片裡只要講到<日軍>就會加上鬼子,organization,organization,True
+ORG,三星,business,producer*product*location,producer,"三星為IBM代工生產晶片，將有助於在全球非記憶晶片市場挑戰台積電、高通等競爭對手。三星去年宣布，到2030年前將投資133兆韓元（1,157億美元），以擴大非記憶體晶片和晶圓代工業務，以搶奪市場龍頭寶座。<三星>將把其中73兆韓元用於在地研發作業，其他60兆韓元則用於購置生產設備。",producer,producer,True
+ORG,台大,university,organization*location*human,organization,這實在太荒謬了，<台大>自己過去這些年來拆了多少建築? 現在卻以校友會名義說傅鐘恐將,organization,organization,True
+ORG,蘋果,business,producer*product*location,producer,<蘋果>全面退出中國產線我看你偉大的支那國經濟還能撐多久,producer,producer,True
+GPE,英國,human-geographic territorial entity,location*organization,organization,台灣撞死人跑回英國<英國>不引渡也沒輒,organization,organization,True
+ORG,清華大學,university,organization*location*human,organization,<清華大學>校長賀陳弘則說，清華有許多來自世界名校的博士申請教職，國內除非是頂尖博,organization,organization,True
+ORG,臺大,university,organization*location*human,organization,其實還是要看學校，如果是國外三流大學跟臺大比的話，當然<臺大>佔優勢,organization,organization,True
+LOC,歐洲,human-geographic territorial entity,location*organization,dot,英澳等<歐洲>國家以及美國要反攻拿回殖民地時，,dot,organization,False
+GPE,法國,human-geographic territorial entity,location*organization,organization,<法國>在武漢肺炎之前也是名目張膽歧視亞洲,organization,?,False
+WORK_OF_ART,諾貝爾獎,award,physical*event*human,event,<諾貝爾獎>是基金會有一群人在運作的啦 叫他們增加就好了,event,event,True
+GPE,英國,human-geographic territorial entity,location*organization,organization,元月，<英國>脫歐，歐盟解體開第一槍！二月，武漢肺炎病毒藉中國人春節觀光熱潮,organization,organization,True
+WORK_OF_ART,聯合報,mass media,organization*information*physical*human,organization,我建議可以跟<聯合報>或中時一起辦民調,organization,organization,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,organization,柯建銘的兒子之前不是被<壹週刊>爆料在中資銀行工作?,organization,organization,True
+GPE,德國,human-geographic territorial entity,location*organization,organization,<德國>「明鏡周刊」（Der Spiegel）網站報導，歐盟外交和安全政策高級代表波瑞爾（Josep Borrell）推文，稱川普的決定「極為不幸，在一個比以往更需要他們（世衛）努力的時刻，沒理由能證明美國此舉合理。世衛正為遏止冠狀病毒大流行做出決定性貢獻」。,organization,organization,True
+ORG,哈佛大學,university,organization*location*human,location,2015年2月，利伯向武理工確認他每年將訪問武理工數次，並可能在未來增加訪問次數。同時，他會通過電子郵件、電話及社交媒體平台等方式繼續指導武理工的學生。此外，他還承諾武理工學生訪問<哈佛大學>時，所享有的待遇比照該校研究生。,location,organization,False
+ORG,交大,university,organization*location*human,organization,讀到<交大>了你他媽不懂這有多危險嗎？,organization,organization,True
+ORG,華為,business,producer*product*location,producer,近年華為使用高通晶片的比例逐漸下降。根據研調機構IHS Market的資料，<華為>手機使用,producer,producer,True
+GPE,比利時,human-geographic territorial entity,location*organization,location,針對該名個案於今年3月在<比利時>曾有喪失嗅味覺的情形，指揮中心研判極可能當時就已,location,location,True
+WORK_OF_ART,花木蘭,work of art,information*physical,physical,迪士尼真人版電影《<花木蘭>》因武漢肺炎疫情4度延期，後來決定直接在美國、紐西蘭等23地區於自家串流平台Disney+上架，台灣、中國與香港則維持戲院上映。由於《花》片女主角劉亦菲去年高調挺香港警察，台灣與香港都有抵制聲浪。兩岸三地中台灣上周五最先上映，開出全台3400萬元票房，成績不俗。接下來該片將於本周五在中國登場、17日在香港上映。,physical,physical,True
+GPE,荷蘭,human-geographic territorial entity,location*organization,organization,什麼身為一個在荷蘭多年的台北人，實在很難想像台灣可以跟<荷蘭>一樣搞,organization,dot,False
+ORG,塔利班,religious organization,organization*human,organization,硝酸銨混合燃油就會成為強力炸藥，它被廣泛用於建築業，包括阿富汗民兵組織<塔利班>（,organization,organization,True
+GPE,澳門,human-geographic territorial entity,location*organization,organization,「按平均來算，中國唯一超過台灣的估計就香港和<澳門>，澳門是真的有錢」,organization,organization,True
+GPE,澳門,human-geographic territorial entity,location*organization,location,我們不會金門起飛繞廈門<澳門>一圈嗎,location,location,True
+ORG,微博,business,producer*product*location,product,<微博>新聞看到說病例一直有持續公布很透,product,product,True
+ORG,台彩,business,producer*product*location,producer,真正的理財大師，<台彩>：看吧我就說都是真的快來集資包牌,producer,producer,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,information,<自由時報>說柯文哲騙錢要不要截圖一下,information,organization,False
+ORG,台積,business,producer*product*location,producer,<台積>在美國政府眼裡不算美國企業嗎？  還是要設廠在美國,producer,producer,True
+GPE,瑞士,human-geographic territorial entity,location*organization,location,其國內約有40%的出口和20%的進口仰賴航空運輸，也有超過一半的外國旅客靠搭機前往<瑞士>。,location,location,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,高雄終於有機會快速追上<台北市>方法了,organization,organization,True
+GPE,台中市,human-geographic territorial entity,location*organization,location,<台中市>今（22）日凌晨發生一起轎車衝撞計程車事故，而且當時因為轎車衝撞速度太快，,location,location,True
+ORG,政大,university,organization*location*human,organization,學界除了<政大>那位前院長出來挺外 其他沒人敢出來挺,organization,organization,True
+ORG,家樂福,business,producer*product*location,location,現在去<家樂福>都開始放過年的歌了,location,location,True
+GPE,花蓮,human-geographic territorial entity,location*organization,organization,花蓮53歲男子歐力源，1997年4月17日於北市麥帥橋上行搶並性侵一名女子遭判無期徒刑，3年前假釋出獄並交付保護管束，須配戴電子腳鐐接受監控，但昨晚（3日）9時55分竟以切割機破壞腳鐐逃逸，<花蓮>檢警發現後立即展開追緝，但歐男沒帶手機無法定位，卻又在今凌晨2時20分在北市大同區隨即對一名婦人恐嚇取財，大批警網已往台北逮人，不過檢警追查發現歐男目前已逃至高雄，最後出現地點在高雄橋頭經武路與成功南路口，現仍積極追緝中。,organization,organization,True
+WORK_OF_ART,諾貝爾和平獎,award,physical*event*human,event,可以被<諾貝爾和平獎>提名的人捐得可不少,event,event,True
+ORG,美國之音,mass media,organization*information*physical*human,organization,<美國之音>記者是不是真的很靠北啊 想害人消失,organization,organization,True
+GPE,新北,human-geographic territorial entity,location*organization,organization,目前<新北>跟台北不一樣對人民來說是比較麻煩的，入城後,organization,organization,True
+ORG,北捷,business,producer*product*location,producer,以下物品超過半年無人認領就歸<北捷>所有。,producer,producer,True
+ORG,海軍,military unit,organization*human,organization,只要有哪個部門領域輕忽擺爛就炸了，前些日子國防部與<海軍>就是例子。,organization,organization,True
+ORG,吉野家,business,producer*product*location,producer,<吉野家>就明顯不食人間煙火挑戰消費者下限 costdown保高層,producer,producer,True
+ORG,北捷,business,producer*product*location,producer,，北捷總經理沈志藏今表示，疫情嚴峻到<北捷>恐將面臨嚴重虧損，將向中央申請紓困。,producer,producer,True
+ORG,輔大,university,organization*location*human,organization,拿醫學系分屬來嘴 你要不要看看高醫跟<輔大>招收人數差多,organization,organization,True
+ORG,北大,university,organization*location*human,organization,好像有聽人講過<北大>剛遷校區那時東吳比較好，所以有台政,organization,organization,True
+ORG,華航,business,producer*product*location,product,消息人士表示，經過多次協商，明天的包機任務由華航及東方航空執行，<華航>班機搭載檢疫,product,product,True
+GPE,台南,human-geographic territorial entity,location*organization,X,台南還是支持民進黨最深的地方欸！民進黨當年低潮到立委只剩二十幾席的時候，民進黨能立委全上的地方只有<台南>欸！,dot,,
+GPE,日本,human-geographic territorial entity,location*organization,organization,我看還是來個內閣總辭光線<日本>才有救,organization,organization,True
+ORG,國民黨,political party,organization*human,organization,共產黨一樣是萬倍大的<國民黨>而已，中國有,organization,organization,True
+ORG,中華郵政,business,producer*product*location,producer,我覺得比照<中華郵政>或中油改名方式成功率最高,producer,producer,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,，整個廢死歷程超過190年。法國同為前後190年，<瑞士>曾短暫恢復死刑近代才走向廢死，,organization,organization,True
+ORG,三星,business,producer*product*location,producer,【大紀元2020年09月11日訊】（大紀元記者何堅報導）去年10月，三星關閉了惠州工廠，停止在中國製造手機；今年6月<三星>又宣布顯示器生產線將從中國遷往越南。事實上，三星的出走並不孤單。隨著國際社會對中共滲透的覺醒和抵制，韓企、日企、台企和微軟、谷歌、蘋果等美企，都在積極將產能移出中國。而大紀元獲得的惠州政府內部文件泄底，在全球產業鏈遷出中國的浪潮下，中共特急下令「拉住日韓」。,producer,producer,True
+ORG,中國人民解放軍,military unit,organization*human,organization,<中國人民解放軍>現役士兵服役條例,organization,organization,True
+ORG,美國在台協會,organization,organization*location*human,organization,<美國在台協會>處長酈英傑表示，AIT對於包括參謀總長沈一鳴在內等八名人員不幸罹難的直,organization,organization,True
+ORG,台科大,university,organization*location*human,organization,清華、交通、台師大、<台科大>等碩博班招生考試則保有彈性，不像台大要求至少兩科筆試,organization,organization,True
+PRODUCT,特斯拉,business,producer*product*location,producer,4b車版推半天<特斯拉>你存到錢買了沒？,producer,product,False
+GPE,澳門,human-geographic territorial entity,location*organization,organization,「按平均來算，中國唯一超過台灣的估計就香港和澳門，<澳門>是真的有錢」,organization,organization,True
+PRODUCT,星巴克,business,producer*product*location,product,心滿意足小確幸還要搭配一杯<星巴克>打卡,product,product,True
+ORG,國軍,military unit,organization*human,human,當<國軍>演練反空降時，就有人會酸中國會先將第一波導彈將台灣防空部隊全打光才空降，,human,human,True
+ORG,美軍,military unit,organization*human,organization,在美國太空軍還沒修復衛星網路前，可以不依賴<美軍>而完成防衛任務。,organization,organization,True
+ORG,麥當勞,business,producer*product*location,producer,現在<麥當勞>搞一堆本土味道的漢堡,producer,producer,True
+WORK_OF_ART,諾貝爾獎,award,physical*event*human,human,一堆人說中醫沒實證 但<諾貝爾獎>屠呦呦就靠中醫藥研究拿到諾,human,physical,False
+GPE,瑞典,human-geographic territorial entity,location*organization,location,蒂格內爾說，「我們的病例數增加，是因為我們過去一週在<瑞典>執行更多採檢」，還說「其,location,location,True
+GPE,台中市,human-geographic territorial entity,location*organization,X,百六十二元，<台中市>二萬一千九百八十四元至二萬九千一百九十二元，台南市一萬八千五,organization,organization,True
+GPE,澳洲,human-geographic territorial entity,location*organization,organization,聯合聲明的簽署人包括美國、英國、<澳洲>和紐西蘭四國的外交事務委員會主席：美國會議,organization,organization,True
+PRODUCT,勞斯萊斯,business,producer*product*location,product,嘉義市一名30多歲劉姓女騎士騎車，與一輛要價3000萬元的<勞斯萊斯>「幻影」發生擦撞，她雖全身多處擦傷，更擔心後續高額維修費而大哭。如今維修費也出爐，可能高達百萬元，而一名疑似幻影車主也出面大器回應。車商建議，即使機車也應該投保第三責任險及超額險，避免和名車擦撞產生巨額理賠問題。,product,product,True
+ORG,清華大學,university,organization*location*human,organization,我國<清華大學>教授呂忠津及天氣風險公司總經理彭啟明(中央大學兼任助理教授)兩人以觀,organization,organization,True
+GPE,東京,human-geographic territorial entity,location*organization,location,在<東京>我還試過故意看到小巷道不闖紅燈,location,location,True
+ORG,德軍,military unit,organization*human,organization,法軍大可夾擊侵入法國本土的<德軍>,organization,organization,True
+WORK_OF_ART,聯合報,mass media,organization*information*physical*human,organization,查核報告的內容背景以及標題都寫明了「媒體報導...」，<聯合報>報導是2019/12/20，而,organization,organization,True
+ORG,好萊塢,human-geographic territorial entity,location*organization,organization,那對夫妻是<好萊塢>有名的開放關係代表,?,organization,False
+GPE,東京,human-geographic territorial entity,location*organization,organization,言下之意，如果安倍發佈緊急事態宣言的話，<東京>都政府將可提出更具效力的對策，更好,organization,organization,True
+GPE,台南市,human-geographic territorial entity,location*organization,location,今天晚間8點多，<台南市>北區延平國中附近的一棵路樹倒塌，不只砸壞路邊車輛，還當場,location,location,True
+ORG,輔大,university,organization*location*human,location,然後同樣在新北的大學<輔大>裡被性侵，被性侵還要被公審,location,location,True
+WORK_OF_ART,金曲獎,award,physical*event*human,event,聽都沒聽過的咖洨，還有現在這年代還會看<金曲獎>這種狗咬,event,event,True
+PRODUCT,TikTok,business,producer*product*location,producer,。通過將<TikTok>從中企剝離，微軟的收購舉動將會消除美國政府此前對TikTok收集用,product,producer,False
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,organization,黎智英父子及<蘋果日報>高層是否因為涉嫌違反國安法而被捕，目前仍有待警方公布。（編,organization,organization,True
+ORG,中國國民黨,political party,organization*human,organization,難得有人記得一切源頭是<中國國民黨>,organization,organization,True
+WORK_OF_ART,金鐘獎,award,physical*event*human,event,王偉忠都可以當去年<金鐘獎>評審了,event,event,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,<台北市>議會下午進行警政衛生部門質詢及答覆，王世堅質詢表示，中央口罩實名制3.0上,organization,organization,True
+ORG,中國人民解放軍,military unit,organization*human,organization,但<中國人民解放軍>與多家軍事機構和國防研究院校，以及七所傳統大學,organization,organization,True
+WORK_OF_ART,蘋果,mass media,organization*information*physical*human,organization,局當天不願明說，《<蘋果>》調查發現，其實那天活動，主要來自於教育局一項近百萬元標,organization,organization,True
+ORG,特斯拉,business,producer*product*location,producer,今年 1月7日，特斯拉CEO馬斯克前往中國上海參加<特斯拉>和中國合作的Model Y汽車研發,producer,producer,True
+ORG,哈佛大學,university,organization*location*human,organization,的副總統呂秀蓮是<哈佛大學>法學碩士，核心的黨外運動人士；而現任總統蔡英文則是教書,organization,organization,True
+GPE,桃園市,human-geographic territorial entity,location*organization,organization,<桃園市>又可以喜迎寶寶主題車站了,organization,organization,True
+GPE,臺北市,human-geographic territorial entity,location*organization,organization,<臺北市>副市長黃珊珊30日下午召開記者會，說明北市居家檢疫民眾的旅館補助專案已經定,organization,organization,True
+PRODUCT,蘋果,business,producer*product*location,producer,因為我是第一次用<蘋果>的手機實在不知道這算不算正常狀態，,producer,product,False
+GPE,淡水,human-geographic territorial entity,location*organization,location,若民眾從環狀線大坪林站出發，搭乘至<淡水>信義線淡水站單程票價為60元，而搭乘到新北,location,location,True
+ORG,國民黨,political party,organization*human,organization,<國民黨>整黨是不是就是癌症末期了...,organization,organization,True
+WORK_OF_ART,聖經,work of art,information*physical,information,父母拿走她的錢的時候也沒出來幫她講話；而且還用<聖經>的話暗示自己的助理在跟張的時候,information,information,True
+GPE,花蓮,human-geographic territorial entity,location*organization,location,松山機場，因為沒有計程車會從松山機場載妹妹回<花蓮>，妹妹本人打電話向1922告知，並,location,location,True
+GPE,美國,human-geographic territorial entity,location*organization,organization,被問到<美國>是否會承認台灣時，班農提到，美國許多有能力的人士（包括他自己）在推動這件事，像是參議員盧比歐（ Marco Rubio）、參議員霍利（Josh Hawley）、參議員柯頓（Tom Cotton），「現在很多很多美國人，不管是民主黨人還是共和黨人，甚至不是那麼熱衷政治的人，在說：『該是我們承認台灣的時候了』，我們應該要大力推動。」「中共不應該對我們要承認誰有發言權，尤其在台灣於疫情期間展現了台灣人的英雄事蹟後。」,organization,organization,True
+ORG,海軍,military unit,organization*human,human,以前當過<海軍>的伙委基本上除了平常菜單六日也會叫外賣,human,human,True
+WORK_OF_ART,諾貝爾和平獎,award,physical*event*human,event,吳祥輝開記者會指該事件「正確無誤」，痛批柯糟蹋<諾貝爾和平獎>提名人伊森與其作品。「屠殺」一書對柯的描寫無誤，而作者經柯3次確認後才出版，由於他已取得授權，任何對書的不實陳述都是侵犯權益與名譽。,event,event,True
+WORK_OF_ART,聯合報,mass media,organization*information*physical*human,information,跟那篇<聯合報>民共平台假新聞一起看就知道,information,information,True
+ORG,好市多,business,producer*product*location,producer,<好市多>的退貨機制是給會員的一項權益，但始終爭議不斷，因為有些奧客會鑽漏洞把食物吃到剩一半再拿去退。臉書粉專「我是 Sabrina，我思故我在」貼出一篇文，昨天她和家人到好市多辦理退貨時，遇到一對母子拎著一袋「雞骨頭」也來退貨，但整隻烤雞已經被啃得精光，「連肋骨都完整保留，但是肉全部不見了。」,producer,producer,True
+ORG,民進黨,political party,organization*human,organization,1.媒體來源: 自由 2.記者署名: 楊淳卉 3.完整新聞標題: 阿札爾口誤稱習主席？ 民進黨酸：國民黨「習」慣成自然 4.完整新聞內文: 針對國民黨指稱美國衛生部長阿札爾（Alex Azar II）今早在總統府發表談話時以「習總 統」稱呼蔡總統，<民進黨>發言人顏若芳表示，國民黨能超譯為「習」總，不僅驗證過去在 國際上「習以為常」的靠向中國立場的積「習」難改，更顯見國民黨這些年來唱衰外交的 「習」非成是已經「習」慣成自然了。 顏若芳表示，今早美國阿札爾部長前往總統府拜會蔡英文總統，發表談話時就是以英文稱 呼蔡總統（President Tsai），隨後其在推特上發文也是同樣稱呼蔡總統（President Tsai），國民黨把阿札爾部長稱呼蔡總統的英文自行「超譯」成「習總統」，這種試圖破 壞外交活動的議題令人費解，更不知道如此「超譯」的行為，究竟對台灣有何好處？ 顏若芳批評，不知道國民黨是不是長期以來與中國同聲共氣，且深度學「習」中共用語， 才會相沿成「習」的把外國政要稱呼蔡總統，自然超譯成「習」總統呢？國民黨能超譯為 「習」總，不僅驗證過去在國際上「習以為常」的靠向中國立場的積「習」難改，更顯見 國民黨這些年來唱衰外交的「習」非成是已經「習」慣成自然了。 5.完整新聞連結 (或短網址): https://tinyurl.com/yyrlrvra 6.備註: 一個小小的口誤 柯韓昌粉可以高潮一整天 真的好笑~~,organization,organization,True
+ORG,鴻海,business,producer*product*location,X,創辦人王來春曾是全球代工龍頭鴻海的員工，但如今該公司不僅營收增速快過<鴻海>，市值,producer,,
+GPE,朝鮮,human-geographic territorial entity,location*organization,organization,當初<朝鮮>王國內是一堆反對王政團體希望日本打倒朝鮮王朝,organization,location,False
+GPE,瑞典,human-geographic territorial entity,location*organization,location,「我們決定去<瑞典>的情趣用品店買一個性玩具送給她，,location,location,True
+ORG,華爾街日報,mass media,organization*information*physical*human,organization,<華爾街日報>報導，美國聯邦機構國家職業安全衛生研究所最近測試進口的N95醫用口罩，發,organization,organization,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,information,看到<蘋果日報>暖流個案幾乎都是同種情形,information,information,True
+GPE,台中市,human-geographic territorial entity,location*organization,organization,其部分區域能加入參山國家風景區，他認為，<台中市>8名立委有6個都是泛綠立委，希望市,organization,organization,True
+ORG,蘋果,mass media,organization*information*physical*human,organization,《<蘋果>》調查，2017年底台電職福會決議用香氛蠟燭當贈品時的董事長，是才剛從經濟部,organization,organization,True
+WORK_OF_ART,蘋果日報,mass media,organization*information*physical*human,dot,剛剛看到<蘋果日報>即時推播前高雄市議長許崑源不幸墜樓意外當場死亡！,dot,information,False
+ORG,哈佛,university,organization*location*human,human,我遇過美國<哈佛>韭菜譴責黃之鋒被哈佛錄取 跟林非凡被黑很像,human,organization,False
+ORG,台灣大學,university,organization*location*human,X,全<台灣大學>不是全台灣大學是全台灣大學，樓上不要搞錯,?,organization,False
+ORG,中華電信,business,producer*product*location,producer,神腦國際中華電信的獨家代理商，主要股東為<中華電信>、董事長賴勁麟為前行政院勞委會副主委、新潮流系前民進黨立委，且致力投入勞工運動，他是陳菊擔任勞委會主委時的副手，也是早年新潮流重點栽培的幹部。賴勁麟長女賴品妤投入2020第十屆立法委員選舉，競選成功，成為新北市第十二選區立法委員。,producer,producer,True
+GPE,新北市,human-geographic territorial entity,location*organization,dot,繼文林苑案後 <新北市>首宗執行強制代拆釘子戶案,organization,dot,False
+GPE,紐西蘭,human-geographic territorial entity,location*organization,location,"19:20 <紐西蘭>#1,男(6x),到伊朗旅行,26從德黑蘭經印尼峇厘島搭阿聯酋航空回奧克蘭",location,?,False
+WORK_OF_ART,諾貝爾獎,award,physical*event*human,physical,綠共的數學理論可以拿<諾貝爾獎>了,physical,physical,True
+GPE,緬甸,human-geographic territorial entity,location*organization,location,在<緬甸>，西北部的實皆省(Sagaing)官員，則是對中國工人發動突襲健康檢查，因為當地,location,location,True
+GPE,苗栗,human-geographic territorial entity,location*organization,organization,真的超希望玟學有朝一日拿下<苗栗>立委,organization,organization,True
+ORG,AIT,organization,organization*location*human,organization,、國防部前印太事務助理部長薛瑞福（Randall Schriver）、<AIT>前理事主席卜睿哲（,organization,organization,True
+GPE,紐西蘭,human-geographic territorial entity,location*organization,location,迪士尼真人版電影《花木蘭》因武漢肺炎疫情4度延期，後來決定直接在美國、<紐西蘭>等23地區於自家串流平台Disney+上架，台灣、中國與香港則維持戲院上映。由於《花》片女主角劉亦菲去年高調挺香港警察，台灣與香港都有抵制聲浪。兩岸三地中台灣上周五最先上映，開出全台3400萬元票房，成績不俗。接下來該片將於本周五在中國登場、17日在香港上映。,location,organization,False
+GPE,桃園市,human-geographic territorial entity,location*organization,organization,先找<桃園市>合作就是完全不同的風向啦！,organization,organization,True
+ORG,交大,university,organization*location*human,organization,交大表示，該文創攤位屬臨時新增，且義交熱心協助完成市府臨時增加的任務，<交大>理因,organization,X,False
+GPE,臺灣,human-geographic territorial entity,location*organization,location,全<臺灣>成千上萬個加油站員工就那女的最可憐,location,location,True
+ORG,塔利班,religious organization,organization*human,organization,美國已經警告，阿富汗政局衝突使美國與塔利班的撤軍協議產生變數。美國和塔利班2月29日在卡達首都杜哈(Doha)簽署了歷史性協議，美國將從阿富汗撤軍，以換取塔利班提供安全保障。這項協議將為阿富汗的和平鋪路，如果<塔利班>遵守協議，美國和盟國將在14個月內，撤離所有在阿富汗的部隊。,organization,organization,True
+PRODUCT,特斯拉,business,producer*product*location,product,車板還有那種很怕人家不知道她開<特斯拉>的,product,product,True
+ORG,鴻海,business,producer*product*location,producer,然後<鴻海>之後的走勢要看國際情勢 鴻海在中國壓太重了 如果,producer,producer,True
+GPE,台南市,human-geographic territorial entity,location*organization,organization,我就任以來非常罕見地在會議中如此憤怒，因台南市環保局局長回應議員提出的諸多質疑，居然回覆： 立法委員 陳椒華 委員很關心，請委員在中央修法，只要中央裁罰依準出來，要罰多高，不管是72萬、720萬，甚至是7200萬，他都沒意見。環保局局長今天這樣的發言，是對自身專業應有的謹慎態度嗎？我完全不想把這個案件變成政治問題，但今天<台南市>環保局的發言顯然就是 ＃推給中央。我忍不住要問，台南市地方與中央如今全面執政，難道市府真的沒有管道向上反映來解決？真的沒有更積極的行政作為？市府需要把一切推給中央，那要環保局何用？,organization,organization,True
+ORG,AIT,organization,organization*location*human,organization,到去年2月之前，<AIT>的電報說蔡已經「進一步鞏固了她在黨內決策者的地位」和「蔡對,organization,organization,True
+GPE,烏克蘭,human-geographic territorial entity,location*organization,organization,<烏克蘭>總統澤連斯基（Zelensky）在一份聲明中敦促<烏克蘭>人表現出同情心，避免抗議。,organization,organization,True
+GPE,澳洲,human-geographic territorial entity,location*organization,location,彰化縣一名到<澳洲>工作的梁姓男子，稱自己返台後於居家檢疫期間無不適症狀，也被衛生,location,location,True
+GPE,南韓,human-geographic territorial entity,location*organization,organization,<南韓>聯合新聞通訊社引述情報單位消息來源報導，一名於9月21日失蹤的南韓漁業官員，,organization,organization,True
+ORG,好萊塢,human-geographic territorial entity,location*organization,organization,國拍攝，一切都顯得非常完美。<好萊塢>也是第一次如此有針對性地為中國市場打造一部迪,organization,organization,True
+ORG,日軍,military unit,organization*human,organization,蘇雲梯、蘇雲英更利用自己是台灣人的身份暗中密報，協助<日軍>逮捕抗日的嫌疑犯和搜索,organization,organization,True
+GPE,瑞士,human-geographic territorial entity,location*organization,organization,黃可馨拿著<瑞士>刀惡狠狠地逼近阿達，卻被鍾哥制止了。,organization,organization,True
+GPE,桃園,human-geographic territorial entity,location*organization,location,鄭文燦指出，目前軌道建設從雙北延伸到桃園已經是現在進行式，因為前瞻計畫， 雙北的軌道建設延伸到<桃園>，當年鐵路地下化因民眾不接受而停擺很久，在他上任後經過歷經多次努力，終於能夠陸續在中壢站完成先導工程，未來桃園、中壢兩地的三鐵共構車站完成後，將形成新的交通樞紐及商業重心；同時，鐵路地下化將消除20個平交道、8個高架橋及8個地下道，對桃園市的都市縫合及都市發展有很大的幫助，這些都是需要決策的魄力，也需要穩健的預算，更需要工程單位的協調。,location,location,True
+GPE,義大利,human-geographic territorial entity,location*organization,organization,這些地方也不像<義大利>大爆發速率,organization,location,False
+GPE,台中市,human-geographic territorial entity,location*organization,organization,<台中市>議員邱素貞，每逢公立幼兒園招生季節，吸引家長搶報、抽籤，服務處電話更接不完，建議市府盤點學校閒置空間，增設非營利幼兒園，擴大公共化教保服務的供應量，滿足家長對公共化教保服務的需求。,organization,organization,True
+GPE,英國,human-geographic territorial entity,location*organization,location,很正常吧 我朋友在<英國>也都不吃當地食物啊,location,location,True
+PRODUCT,星巴克,business,producer*product*location,product,而且天天喝<星巴克>總比天天吃牛排還好吧,product,product,True
+ORG,台電,business,producer*product*location,producer,人家<台電>火力不只可發電還有做過濾,producer,producer,True
+GPE,瑞典,human-geographic territorial entity,location*organization,organization,跟那個氣候變遷的<瑞典>還是瑞士小女孩一樣,organization,organization,True
+ORG,華為,business,producer*product*location,producer,就<華為>是否參與5G建設採取單獨行動。她要求在歐盟層面上就<華為>是否允許參與5G做出決,producer,producer,True
+GPE,日本,human-geographic territorial entity,location*organization,location,: → McCain: 話說台灣為何拖到三月才要禁止往返<日本>       114.25.69.95 03/28 00:49,location,location,True
+WORK_OF_ART,聯合報,mass media,organization*information*physical*human,information,享而已。請你去找出<聯合報>刊登一模一樣的故事。如,information,information,True
+ORG,北大,university,organization*location*human,organization,他一定有清大學歷啊，一句話馬上可以拿到<北大>博士的人,organization,organization,True
+GPE,台南,human-geographic territorial entity,location*organization,organization,<台南>不要到時亂玩玩到國民黨不小心上,organization,organization,True
+ORG,家樂福,business,producer*product*location,producer,但新竹的絕對是大潤發反輾回<家樂福>,producer,producer,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,organization,那些拼命要去揭穿人家假面具的不知想甚麼，又不是<壹週刊>,organization,organization,True
+ORG,美國在台協會,organization,organization*location*human,organization,<美國在台協會>處長酈英傑到桃園國際棒球場關心美籍投手，並於推特英語直播客串主播。,organization,organization,True
+ORG,台彩,business,producer*product*location,producer,你想想政府一百年來哪個單位沒弊病的 <台彩>你敢信？,producer,producer,True
+ORG,華爾街日報,mass media,organization*information*physical*human,organization,「<華爾街日報>」報導，總統蔡英文高票連任，外界普遍解讀選民排斥更緊密的兩岸關係。,organization,organization,True
+GPE,紐約,human-geographic territorial entity,location*organization,location,州長今天說<紐約>人均測試量超過南韓,location,location,True
+ORG,中研院,educational institution,organization*location*human,organization,沒網路時代可以上網的天才當什麼立委啦~~去<中研院>啦,organization,organization,True
+PRODUCT,星巴克,business,producer*product*location,product,我上次看到年輕女生打翻特大杯<星巴克>，一路流過每一排椅,product,product,True
+ORG,哈佛,university,organization*location*human,X,此次林鄭被美制裁的消息一出，外界關注林鄭的家人是否會受到牽連。根據林約希在<哈佛>,X,X,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,但依照鐵改局發行的專刊來看。當初台北鐵路地下化專案是中央和<台北市>各出一半,organization,organization,True
+ORG,海軍,military unit,organization*human,human,"<海軍>現在該作的就是把可公開行程完全交代清楚,再去說",human,human,True
+ORG,海軍,military unit,organization*human,human,當初<海軍>說自己有詢問過指揮中心，所以是依照漁業署的遠洋漁船檢疫措施,human,human,True
+GPE,波蘭,human-geographic territorial entity,location*organization,organization,所顯現出的領導風範，然後WHO也期待日後能與<波蘭>有更進一步的合作，,organization,organization,True
+ORG,台彩,business,producer*product*location,producer,前總統李登輝30日晚間7時24分辭世，享耆壽98歲。台彩今彩539第109183期開獎，中獎號碼居然巧合與李前總統住院天數、病逝時間相同，讓不少網友看完都傻了。據<台彩>官網公布，有5名幸運得主中頭獎，每人可拿新台幣480萬元。,producer,producer,True
+WORK_OF_ART,金曲獎,award,physical*event*human,physical,可能是小弟不知道<金曲獎>得獎人的粉絲遍布中正萬華,physical,physical,True
+ORG,中華郵政,business,producer*product*location,producer,屬單位及交通部旗下的<中華郵政>等事業單位，目前大多由林佳龍原來的台中市府團隊出任,producer,producer,True
+ORG,清大,university,organization*location*human,organization,你知道<清大>的吉他社還辦過大東盃嗎?比誰能像他一樣,organization,organization,True
+ORG,華為,business,producer*product*location,producer,說穿了 還不就是美國下定決心就是要打趴<華為>,producer,producer,True
+ORG,中華電信,business,producer*product*location,product,《蘋果》嘗試用張先生疑似遭冒名的網路辦理續約，只要有帳號密碼登入<中華電信>會員,product,producer,False
+ORG,納粹,political party,organization*human,organization,要看這種我還不如看<納粹>和蘇聯的，甚至現在俄國的閱兵。,organization,organization,True
+ORG,台積電,business,producer*product*location,producer,擁核思考過台積電晚上生產的產品<台積電>怎麼跟蘋果證實是用,producer,producer,True
+GPE,臺北市,human-geographic territorial entity,location*organization,organization,好像有年<臺北市>跨年打電腦遊戲給全國看,organization,organization,True
+PRODUCT,勞斯萊斯,business,producer*product*location,product,我走在後面也看的到<勞斯萊斯>尾燈啊？,product,product,True
+GPE,日本,human-geographic territorial entity,location*organization,organization,請<日本>幫忙調出所有人的手機定位阿,organization,organization,True
+GPE,英國,human-geographic territorial entity,location*organization,organization,4月12日復活節是英國重要的節日之一，不過如今卻成為該國最悲傷的一天，<英國>衛生大,organization,organization,True
+ORG,微信,business,producer*product*location,product,怎麼沒有檢察官主動偵查，扣留及調查手機及電子設備<微信>微博內容,product,product,True
+ORG,華為,business,producer*product*location,producer,整天華為華為你在<華為>上班喔還是你一定要美國用華為啊,producer,producer,True
+GPE,紐西蘭,human-geographic territorial entity,location*organization,location,一個水果真的有混但沒有詐欺因為宣傳沒說都是<紐西蘭>,location,location,True
+ORG,輔大,university,organization*location*human,organization,但我覺得<輔大>能再分成一個獨立生活圈,organization,organization,True
+WORK_OF_ART,花木蘭,work of art,information*physical,physical,《<花木蘭>》在台灣的票房如何我認為會是個值得探討的現象，我們應該要是全球最不該支,physical,physical,True
+PRODUCT,蘋果,business,producer*product*location,product,笑死人，<蘋果>半版價格可能還比不上李的一,product,product,True
+GPE,台北市,human-geographic territorial entity,location*organization,organization,疫情趨緩，行政院下月中將發放振興三倍券，北市府也規劃加碼方案要將錢留台北市。<台北市>副市長黃珊珊今天在防疫記者會中表示，加碼方案除了敬老卡外，也確定持愛心卡民眾，也可多加碼一千元。,organization,organization,True
+WORK_OF_ART,金曲獎,award,physical*event*human,event,〔記者鄭名翔／苗栗報導〕甫入圍<金曲獎>最佳新人的歌手高爾宣，日前至苗栗縣後龍海邊,event,event,True
+WORK_OF_ART,諾貝爾文學獎,award,physical*event*human,event,是去年過世的前<諾貝爾文學獎>評審委員馬悅然,event,event,True
+ORG,麥當勞,business,producer*product*location,producer,近日，大批居廣州的非洲人受到專門針對，有人被無理趕離住所，露宿街頭。近日，又有片段指廣州<麥當勞>拒絕非裔人士進入。,producer,producer,True
+ORG,德國之聲,mass media,organization*information*physical*human,organization,<德國之聲>: 這也是義大利的疫情情況迅速變差的原因嗎?,organization,organization,True
+LOC,歐洲,human-geographic territorial entity,location*organization,organization,分化<歐洲>，顯然影響不少德國民眾對中國的觀感。關於中國電信設備大廠華為能否參與5G,organization,organization,True
+ORG,鴻海,business,producer*product*location,producer,感覺就是鴻海的三創賣<鴻海>的電視,producer,producer,True
+ORG,中國人民解放軍,military unit,organization*human,organization,台灣一樣也因為成為了<中國人民解放軍>最重要的「軍事前進基地」而強化戰備,organization,organization,True
+GPE,澳洲,human-geographic territorial entity,location*organization,organization,王立強共諜案持續延燒，<澳洲>媒體日前揭露，國民黨副秘書長蔡正元要求王立強改口，蔡,organization,organization,True
+PRODUCT,勞斯萊斯,business,producer*product*location,product,索爾2010年停產山寨版<勞斯萊斯>，反而讓他們生產的山寨的勞斯萊斯在中國成為「限量,product,product,True
+GPE,新北市,human-geographic territorial entity,location*organization,location,海巡署第二巡防區指揮部今天上午9時許接獲民眾報案，有8名潛水客在<新北市>瑞芳區水湳,location,location,True
+WORK_OF_ART,諾貝爾和平獎,award,physical*event*human,physical,懇請他做為同樣是<諾貝爾和平獎>得主，做為一個捍衛人權與民主的世界領袖，務必,physical,physical,True
+GPE,新北,human-geographic territorial entity,location*organization,location,［記者賴筱桐／新北報導］<新北>市樹林區今天凌晨發生嚴重車禍，21歲警察楊庭豪在執勤途,location,location,True
+WORK_OF_ART,壹週刊,mass media,organization*information*physical*human,human,這麼說起來 史哲確實有能力多了 就算已婚之身被<壹週刊>拍到跟女記者擁吻,human,organization,False
+ORG,鴻海,business,producer*product*location,producer,針對路透社報導，<鴻海>回應，一向不評論任何有關既有及潛在客戶、產品、供應鏈夥伴的,producer,producer,True
+WORK_OF_ART,自由時報,mass media,organization*information*physical*human,information,先給他們看<自由時報> 加上我們校園智能提升團隊就可以了,information,information,True
+GPE,比利時,human-geographic territorial entity,location*organization,organization,歐洲的<比利時>、荷蘭、瑞士、德國和盧森堡等五國，醫師協助安樂死是合法的。今年2月，法國當時的衛生部長布贊表示，政府將會再次考慮安樂死的問題，但這個計劃因為隨後爆發的新冠病毒疫情而暫時中斷。,organization,organization,True
+ORG,北大,university,organization*location*human,organization,<北大>台籍博士生王裕慶10日發文向譚德塞道歉：「我今天就帶頭代表更台灣更多善良的同,organization,organization,True
+ORG,政大,university,organization*location*human,organization,陳嘉行究竟多有料？不僅陳乃瑜出面叫屈，連號稱仙女姐姐的財經專家胡采蘋都替他背書，爆料其實台大、<政大>都有老師搶著要他，內涵與天賦可不是一般人能比擬。,organization,organization,True
+ORG,三星,business,producer*product*location,producer,"三星為IBM代工生產晶片，將有助於在全球非記憶晶片市場挑戰台積電、高通等競爭對手。<三星>去年宣布，到2030年前將投資133兆韓元（1,157億美元），以擴大非記憶體晶片和晶圓代工業務，以搶奪市場龍頭寶座。三星將把其中73兆韓元用於在地研發作業，其他60兆韓元則用於購置生產設備。",producer,producer,True
